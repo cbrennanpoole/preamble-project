@@ -1,5 +1,7 @@
 # Preamble-Project
-Self-realization, opportunity, and hope for the future, establish a more perfect union; not legislation, medication or incarceration.
+
+##Self-realization, opportunity, and hope for the future, establish a more perfect union; not legislation, medication or incarceration.
+
 ## Preamble-Project QUALITATIVE GOALS
 - Bridge skills gap by delivering resources to provide applied digital skills training into our American prison systems; directly into the hands of the socioeconomically disadvantaged; the grossly under, and unemployed subsector of the nation's economy. 
 - Leverage the same plant that continues to be used to incarcerate over 600,000 people per year as the means for employment, opportunity, economic stability, and improved pscyhe of formerly incarcerated qualified, individuals.
