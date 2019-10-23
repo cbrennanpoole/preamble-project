@@ -1,16 +1,16 @@
 # Preamble-Project
 
-## Self-realization, opportunity, and hope for the future, establish a more perfect union; not legislation, medication or incarceration.
+## We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.
 
 ## Preamble-Project QUALITATIVE GOALS
-- Bridge skills gap by delivering resources to provide applied digital skills training into our American prison systems; directly into the hands of the socioeconomically disadvantaged; the grossly under, and unemployed subsector of the nation's economy. 
+- Bridge skills gap by delivering resources to provide __applied digital skills training__ into our American prison systems, directly into the hands of the socioeconomically disadvantaged; the grossly under, and unemployed subsector of the nation's economy. 
 - Leverage the same plant that continues to be used to incarcerate over 600,000 people per year as the means for employment, opportunity, economic stability, and improved pscyhe of formerly incarcerated qualified, individuals.
-  - by making the problem the solution, this would likely:
-  - assist in the reduction of the illicit marijuana market
-  - aid in and ensuring that the  
-       1. Medicinal, 
-       1. Recreational, and 
-       1. Whole hemp 
+- In making the problem the solution, this will likely:
+    1. assist in the reduction of the illicit marijuana market
+    1. aid in and ensuring that the  
+       - Medicinal, 
+       - Recreational, and 
+       - Whole hemp 
 plant sectors realize continued legitimacy and gains in tax revenues.
 ## Preamble-Project QUANTITATIVE GOALS
 1. Facilitate the creation of 700 in-demand careers in the next 7 years.
