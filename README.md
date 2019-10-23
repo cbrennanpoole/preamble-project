@@ -14,14 +14,13 @@
     - further gains to what had been uncollected tax revenues.
     
 ## Preamble-Project QUANTITATIVE GOALS
+1. See Prohibition End
+1. Realize 7 year exit strategy & conversion to not-for profit business model.
+1. Help Draft Opioid Epidemic Resolution Strategy pivoting to full-time commitment on seeing that realized. 
 1. Facilitate the creation of in-demand careers over the course of the next 7 years.
-IT Jobs | Cannabis Jobs | Whole Plant Hemp Jobs
-------- | ------------- | -------
-250     | 250           | 250
-
-2. See Prohibition End
-3. Realize 7 year exit strategy & conversion to not-for profit business model.
-4. Help Draft Opioid Epidemic Resolution Strategy pivoting to full-time commitment on seeing that realized. 
+    - IT: 250
+    - Cannabis: 250
+    - Hemp Farm: 250
 
 ## Elements: 
 The People Problems | The Plant Problems | The Profitability Possibilities
