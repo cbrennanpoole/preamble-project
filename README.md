@@ -3,19 +3,22 @@
 ## We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.
 
 ## Preamble-Project QUALITATIVE GOALS
-- Bridge skills gap by delivering resources to provide __applied digital skills training__ into our American prison systems, directly into the hands of the socioeconomically disadvantaged; the grossly under, and unemployed subsector of the nation's economy. 
-- Leverage the same plant that continues to be used to incarcerate over 600,000 people per year as the means for employment, opportunity, economic stability, and improved pscyhe of formerly incarcerated qualified, individuals.
-- In making the problem the solution, this will likely:
-    1. assist in the reduction of the illicit marijuana market
-    1. aid in and ensuring that the  
-       - Medicinal, 
-       - Recreational, and 
-       - Whole hemp 
-plant sectors realize continued legitimacy and gains in tax revenues.
+1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
+2. Leverage the same plant that, to this day, continues to be unjustly used to incarcerate over 600,000 Americans per year, as means to gainful employment, opportunity, economic stability, and improved pscyhe of the formerly incarcerated.
+3. In making the problem the solution, the expected outcome is:
+    - reduction of the illicit marijuana market
+    - boost to the 
+        i. Medicinal, 
+       ii. Recreational, and 
+      iii. Whole herbaceous plant; hemp plant sector. 
+    - further gains to what had been uncollected tax revenues.
+    
 ## Preamble-Project QUANTITATIVE GOALS
-1. Facilitate the creation of 700 in-demand careers in the next 7 years.
-   - 350 in the IT space.
-   - 350 in Cannabis/Hemp/Cannabinoid space.
+1. Facilitate the creation of in-demand careers over the course of the next 7 years.
+IT Jobs | Cannabis Jobs | Whole Plant Hemp Jobs
+------- | ------------- | -------
+250     | 250           | 250
+
 2. See Prohibition End
 3. Realize 7 year exit strategy & conversion to not-for profit business model.
 4. Help Draft Opioid Epidemic Resolution Strategy pivoting to full-time commitment on seeing that realized. 
@@ -36,7 +39,8 @@ Recidivism / Reentry | Whole Herbaceous Plant |Why Weed?
    a. Finally, as chief principal of Chasing the Wind, llc all benefits from the Google Cloud for Startups program we have been awarded are to utilized in their entirety as a means to kickstart the launch, facilitating lean funding.
 ## Will it work?
 ### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training. Using a four-pillar approach.
-### > Their motto is **Changing Lives Through Tech**
+Their motto:
+    > **Changing Lives Through Tech**
 
 Education | Vocation | Expansion | Reentry
 --------- | -------- | --------- | ---------
