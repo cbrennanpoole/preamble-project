@@ -54,9 +54,10 @@ Brennan aims to fully leverage today's emerging technologies by hosting the doma
 [Telegram](https://t.me/oudcollective) | [Messenger](https:/m.me/CaseybPoole48)
 [Pinterest](https://www.pinterest.com/chasingthewindllc) | [Google Drive](https://bit.ly/BrennanCerts)
 [Workew Profile](https://workew.com/resume/casey-tijrnmi2-web-development-apprentice-logistics-supply-chain-covington-georgia/) | [UpWork](http://upwork.com/freelancers/~014e20fd3da4a49b11) 
-[GitHub](https://github.com/oudcollective | [Crunchbase](https://www.crunchbase.com/person/c-brennan-poole)
 [Instagram](https://instagram.com/becomingbrennan) | [indeed](https://my.indeed.com/p/brennanp-eb74yq5)
 [Y Combinator Startup School Profile](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA) | [Product Hunt Mock-Up](https://www.producthunt.com/my/upcoming/chasing-the-wind-llc)
 [Angel List](https://angel.co/brennanpoole) | [Linktree](https://linktr.ee/cannabiscognizance)
 (470) 327-2626 main | (404) 482-0424 mobile
-mailto:BecomingBrennan@gmail.com | (💨🏃🏽‍♀️🏃🏽‍♂️🌪)
+mailto:BecomingBrennan@gmail.com |  [Crunchbase](https://www.crunchbase.com/person/c-brennan-poole)
+
+# 💨🏃🏽‍♀️🏃🏽‍♂️🌪
