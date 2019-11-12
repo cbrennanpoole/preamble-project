@@ -18,9 +18,9 @@
 1. Realize 7 year exit strategy & conversion to not-for profit business model.
 1. Help Draft Opioid Epidemic Resolution Strategy pivoting to full-time commitment on seeing that realized. 
 1. Facilitate the creation of in-demand careers over the course of the next 7 years.
-    - IT: 250
-    - Cannabis: 250
-    - Hemp Farm: 250
+    - IT: 
+    - Cannabis: 
+    - Hemp Farm:
 
 ## Elements: 
 The People Problems | The Plant Problems | The Profitability Possibilities
@@ -60,11 +60,15 @@ Prospecting | Training | From 1st Day Out
  
 ## The People Problems
 ### **IT and the Digital Skills Gap**
-Cloud Services, AI, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
+Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 ### **Recidivism / Reentry**
 Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years, and what was already an overcrowded, underfunded, exhausted reentry/community supervision platform that was only ever meant to assist folks; not keep them in the turnstile of the American [in]Justice revolving door policy currently stuck in gear. 
 
 ### **SUD & The Opioid Epidemic**
-Making the connection with substance misuse, this opioid crisis, recidivism rates, and having opportunity on the endangered list is not all that difficult. Each one is a seperate issue altogether with moving variables. An impossible to refute evidence-based need for fighting. Finally, from bringing those problems together, the underlying area and most actionable tactic is to replinish opportunity for the future as priority number one. This will most certainly create a long-lasting domino effect tilting the tides to our favor while weakening further as prohibition ends begins to rollout.
+Making the connection with substance misuse, this opioid crisis, recidivism rates, and having opportunity on the endangered list is not all that difficult. Each one is a seperate issue altogether with moving variables. 
+
+> An impossible to refute evidence-based need for fighting. 
+
+Finally, from bringing those problems together, the underlying area and most actionable tactic is to replinish opportunity for the future as priority number one. This will most certainly create a long-lasting domino effect tilting the tides to our favor while weakening further as prohibition ends begins to rollout.
 
