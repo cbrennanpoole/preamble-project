@@ -28,22 +28,27 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
     - Forensic analysis of Marijuana Tax  Revenues.
         -  Starting with the State of Colorado to determine why the state with a billion in Tax revenues.
         - The most successful cannabis program on earth still has its teachers heading up walk-outs (strikes) and demanding better conditions for them and the children they teach. 
+ 
  1. A deep dive into the actual actionable works accomplished by some of the not-for-profits in industry. 
-        - Talkers.
-        - Doers. 
-1. Presenting the case for cannabis and opportunity that exists in the State of Georgia.        
-- [New Frontier Data projects Georgia as the highest potential revenue in the medical market](
+    - Talkers.
+    - Doers. 
 
-         - THC Free Phytocannabinoid Rich
-         - Recreational (in time) 
-         - Industrial Hemp
 1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action and hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
+
 1. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for farms, farmers, families, and ecommerce/retail businesses. 
+
 1. Simplify the process of self-learning digital skills by creating a clear, simple path for all to follow; using best-in-class resources and a mentor-based knowledge base.
    - [Google Applied Digital Skills](https://applieddigitalskills.withgoogle.com/c/en/curriculum.html?audience=adult_learners&topic=job_skills "Start a lesson: Explore the curriculum and choose a lesson that fits.")
+
 1. Improve awareness of recidivism rates while working with successful models to develop a national project using cloud architecture and emerging technologies to scale (addressing the black market and providing an actionable scale capable option).
-   
----
+
+1. Presenting the case for cannabis and opportunity that exists in the State of Georgia.        
+    - New Frontier Data projects Georgia as the highest potential revenue in the medical market
+        - THC Free Phytocannabinoid Rich
+        - Recreational (in time) 
+        - Industrial Hemp
+  
+ ---
 
 ## Qualitative Goals
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
@@ -175,7 +180,7 @@ Their names; War on Drugs, and Stigma.
 
 > Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
 
-+---
+---
 
 Finally, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for replenishment of opportunity and equality for all sub-sectors of American Citizens. This will certainly create a long-lasting domino effect tilting the tides to the favor of the people . While further weakening and helping fuel the fire that is going to bring America to Drug War Ends. Just as prohibition finds its end. And We the People continue on demanding actual actionable alternative answers.
 
