@@ -2,6 +2,49 @@
 
 ## We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.
 
+---
+
+## Mission 
+
+> Our mission is to leverage the Cannabis Cause and everything it stands for with the sustainable business model millennial's are mastering, the push for renewable resources, and the health and wellness movement with the funding opportunities our government continues to work toward, the open learning and open source resources that can help bridge the skills gap to deliver a transparent cloud architecture digital solution with alternative answers (like hemp health) to the people who need them most (socioeconomically disadvantaged minorities); while addressing the most egregious problems that are far too Prevalent in America Today.
+
+---
+
+### MODEL
+Ours is a multi-faceted framework and sustainable model with compliant marketing models and lean management principals for the cannabis and whole plant hemp industry.
+
+---
+
+### CORNERSTONE
+Our cornerstone and core competency is Total Customer Satisfaction thru Total Quality Management with an eye on the long. 
+
+---
+
+### OBJECTIVES
+1. Improve cannabis and hemp industry image through measurable works.
+
+1. Implement and author an authentic and objective content strategy bringing investigative journalism to an unregulated, and all new industry that's growing like the weed that is fueling it. . 
+    - COA web scrape and comprehensive analysis of the current testing methods and questionable marketing tactics used by labs/brands to confuse the dilution that currently exists. 
+    - Forensic analysis of Marijuana Tax  Revenues.
+        -  Starting with the State of Colorado to determine why the state with a billion in Tax revenues.
+        - The most successful cannabis program on earth still has its teachers heading up walk-outs (strikes) and demanding better conditions for them and the children they teach. 
+ 1. A deep dive into the actual actionable works accomplished by some of the not-for-profits in industry. 
+        - Talkers.
+        - Doers. 
+1. Presenting the case for cannabis and opportunity that exists in the State of Georgia.        
+- [New Frontier Data projects Georgia as the highest potential revenue in the medical market](
+
+         - THC Free Phytocannabinoid Rich
+         - Recreational (in time) 
+         - Industrial Hemp
+1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action and hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
+1. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for farms, farmers, families, and ecommerce/retail businesses. 
+1. Simplify the process of self-learning digital skills by creating a clear, simple path for all to follow; using best-in-class resources and a mentor-based knowledge base.
+   - [Google Applied Digital Skills](https://applieddigitalskills.withgoogle.com/c/en/curriculum.html?audience=adult_learners&topic=job_skills "Start a lesson: Explore the curriculum and choose a lesson that fits.")
+1. Improve awareness of recidivism rates while working with successful models to develop a national project using cloud architecture and emerging technologies to scale (addressing the black market and providing an actionable scale capable option).
+   
+---
+
 ## Qualitative Goals
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
 2. Leverage the same plant that, to this day, continues to be unjustly used to incarcerate over 600,000 Americans per year, as means to gainful employment, opportunity, economic stability, and improved pscyhe of the formerly incarcerated.
@@ -16,12 +59,13 @@
 ## Quantitative Goals
 1. See Prohibition End
 1. Realize 7 year exit strategy & conversion to not-for profit business model.
-    - Long-term goal is help Draft The Opioid Epidemic Resolution after pivoting to full-time commitment on tackling the opioid / substance use epidemic. 
+    - Long-term goal is to help Draft The Opioid Epidemic Resolution after pivoting to full-time commitment on tackling the substance use epidemic. 
 1. Facilitate creation of in-demand, high growth potential, well paying careers over the course of the next 7 years in
     - IT
-    - Cannabis
-    - Hemp Farm
-        - possibly as stand alone or a fusion of all three.
+    - Cannabis Sativa
+        - Whole Plant Hemp
+        - Ancillary services relating to both Information Technology and the agribusiness sector that the once criminalized  Cannabis will continue to cause global revolutionary hyper=growth for; as people and communities realize the message, acknowledging God's green herbaceous health and wellness Plants; while complementing the surging sustainability models, and renewable mindsets.
+        
 
 ---
 
@@ -128,10 +172,12 @@ Those string can be seen tugging on the epidemic and substance use statistics.
 Their names; War on Drugs, and Stigma. 
 
 ---
-> Preamble-Projoect is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
----
 
-Finally, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Whis is the inertia we seek. Allowing for replinishment of opportunity and equality for all sub-sectors of American Citizens. This will certainly create a long-lasting domino effect tilting the tides to the favor of the people . While further weakening and helping fuel the fire that is going to bring America to Drug War Ends. Just as prohibition finds its end. And We the People continue on demanding actual actionable alternative answers.
+> Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
+
++---
+
+Finally, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for replenishment of opportunity and equality for all sub-sectors of American Citizens. This will certainly create a long-lasting domino effect tilting the tides to the favor of the people . While further weakening and helping fuel the fire that is going to bring America to Drug War Ends. Just as prohibition finds its end. And We the People continue on demanding actual actionable alternative answers.
 
 
 
