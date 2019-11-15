@@ -12,7 +12,7 @@
         - Recreational, and 
         - Whole herbaceous plant; hemp plant sector. 
     - further gains to what had been uncollected tax revenues.
-    
+--- 
 ## Quantitative Goals
 1. See Prohibition End
 1. Realize 7 year exit strategy & conversion to not-for profit business model.
@@ -21,8 +21,9 @@
     - IT: 
     - Cannabis: 
     - Hemp Farm:
-
+---
 ## Elements: 
+
 The People Problems | The Plant Problems | The Profitability Possibilities
 ------|------|------| 
 Growing Gaps | Psychoactive-free / Phytocannabinoid Rich | Cannabidiol Craze
@@ -32,31 +33,44 @@ Recidivism & Reentry | Whole Plant Cannabacea | Industrial Hemp
 Greed | Non-compliant Market | Ancillary Services
 **SWOT** | **Call to Act** | **Summary**
 
+---
+
 ### Non-Negotiables
 1. Open source, open border, open for all as an always accessible, fully transparent repository on the github.com platform.
 1.  All-inlcusive. Expect and respect diversity. A True Meritocracy.
 1. Establish  and implement simple yet actionable measurables fueling data-driven Solutions.
 1. Launch from Google Cloud Platform; full leverage of the platform and resources as to progressively deliver current and emerging technologies, utilize all that is machine learning, Artificial Intelligence, kubernetes, and Natural Language Processing. 
     - Chasing the Wind, llc has chosen to allocate all benefits from the Google Cloud for Startups program recently awarded are to be utilized in their entirety on the preamble-project, as a means to kickstart the launch, further extending while facilitating lean funding; simply put, a sustainable cannabis model.
+---
 
 ## Will it work?
 ### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 Their motto:
+---
   
   > **Changing Lives Through Tech**
 
+---
+
 ## Using a four-pillar approach.
 
+---
 Education | Vocation | Expansion | Reentry
 --------- | -------- | --------- | ---------
 Simple | Attainable | Lean | Record of Success 
 **Served 460 students since '10** | **12 locations Ca, In, Ks, Ok** | **0% recidivism rate** | **National Avg. 55%**
 
+---
+
 ## The Ancillary Model 
+
+---
 Diagnostic | therapeutic | Custodial 
 ---------- | ----------- | --------
 Prospecting | Training | From 1st Day Out
 🩺 | **w/ Best in Class Pay** | 🔬
+ 
+ ---
  
 ## The People Problems
 ### **IT and the Digital Skills Gap**
