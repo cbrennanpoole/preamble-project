@@ -1,26 +1,50 @@
-# Preamble-Project
+# Chasing the Wind, LLC Business Beginnings
+🍑🌱 | 💨🏃🌪
 
-## We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.
+---
+> Please note: This is a real-time build. Errors exist. Typos do too. Please feel free to assist in correcting. And by all mens if anything on here can be irrefutably proven, you are invited to engage in a mature and objective discussion. The goal here isn't fame or fortune. It's an honest attempt at an altruistic for profit and we need your support. 
 
 ---
 
-## Mission 
+## One Year Status Update
+
+[Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | Google Cloud for Startups Aug '19-Present
+---|---
+[CrunchBase Top 75k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019") | [Crunchbase Top 15k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank is 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier.")
+[South By Southwest 2020 SXSW2020 Pitch](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff and as a lean model, it's doubtful we will be able to source the registration fee in time to capitalize off this amazing opportunity.") |[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, the same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.")
+
+---
+> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November"). 
+---
+
+> CV Sciences is on a [mission](https://cvsciences.com/about-us/ "Maybe someday I'll be able to share why this is so significant to the Chasing the Wind story.") to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products.  
+
+---
+## Current Project(s) 
+
+### Preamble-Project
+
+### We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.
+
+---
+
+### Mission 
 
 > Our mission is to leverage the Cannabis Cause and everything it stands for with the sustainable business model millennial's are mastering, the push for renewable resources, and the health and wellness movement with the funding opportunities our government continues to work toward, the open learning and open source resources that can help bridge the skills gap to deliver a transparent cloud architecture digital solution with alternative answers (like hemp health) to the people who need them most (socioeconomically disadvantaged minorities); while addressing the most egregious problems that are far too Prevalent in America Today.
 
 ---
 
-### MODEL
+#### MODEL
 Ours is a multi-faceted framework and sustainable model with compliant marketing models and lean management principals for the cannabis and whole plant hemp industry.
 
 ---
 
-### CORNERSTONE
+#### CORNERSTONE
 Our cornerstone and core competency is Total Customer Satisfaction thru Total Quality Management with an eye on the long. 
 
 ---
 
-### OBJECTIVES
+#### OBJECTIVES
 1. Improve cannabis and hemp industry image through measurable works.
 
 1. Implement and author an authentic and objective content strategy bringing investigative journalism to an unregulated, and all new industry that's growing like the weed that is fueling it. . 
@@ -50,7 +74,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
   
  ---
 
-## Qualitative Goals
+### Qualitative Goals
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
 2. Leverage the same plant that, to this day, continues to be unjustly used to incarcerate over 600,000 Americans per year, as means to gainful employment, opportunity, economic stability, and improved pscyhe of the formerly incarcerated.
 3. In making the problem the solution, the expected outcome is:
@@ -61,7 +85,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
         - Whole herbaceous plant; hemp plant sector. 
     - added tax revenues from an uncollected and unresolved illicit marijuana market.
 --- 
-## Quantitative Goals
+### Quantitative Goals
 1. See Prohibition End
 1. Realize 7 year exit strategy & conversion to not-for profit business model.
     - Long-term goal is to help Draft The Opioid Epidemic Resolution after pivoting to full-time commitment on tackling the substance use epidemic. 
@@ -74,7 +98,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
 
 ---
 
-## Elements: 
+### Elements: 
 
 ---
 
@@ -99,7 +123,7 @@ Greed | Non-compliant Market | Ancillary Services
 
 ---
 
-## Will it work?
+### Will it work?
 
 ### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 
@@ -112,7 +136,7 @@ Their motto:
 
 ---
 
-## Using a four-pillar approach.
+### Using a four-pillar approach.
 
 ---
 
@@ -123,7 +147,7 @@ Simple | Attainable | Lean | Record of Success
 
 ---
 
-## The Ancillary Model 
+### The Ancillary Model 
 
 ---
 
@@ -134,13 +158,13 @@ Prospecting | Training | From 1st Day Out
   
  ---
  
-## The People Problems
+#### The People Problems
 ### **IT and the Digital Skills Gap**
 Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 ---
 
-### **Recidivism / Reentry**
+#### **Recidivism / Reentry**
 Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
 
 While what was already an 
@@ -160,21 +184,28 @@ It is the epitome of an open door policy, more aptly put, a revolving door polic
 
 ---
 
-### **SUD & The Opioid Epidemic**
-Making the connection with substance misuse, the opioid crisis, and recidivistic statistics is a simple Aristotle logic equation. 
+#### **SUD & The Opioid Epidemic**
+Making the connection with substance misuse, the opioid crisis, and recidivistic statistics is a simple Aristotelian logic equation. 
 
-Wars were claimed on Drugs. Non-violent, victimless crimes became felonious; carrying mandatory minimum discriminatory sentences. 
+- Wars were claimed on Drugs. 
+ 
+    - Non-violent, victimless crimes became felonious; carrying mandatory minimum discriminatory sentences. 
 
-Causing addicts to become public enemy number one. 
+        - Causing addicts to become public enemy number one. 
 
-In a socioeconmic war, that either, lost site of the intended target. Or never understood who to target from the onset.  
+        - In a socioeconomic war, that either, lost sight of the intended target, or never understood who to target from the onset.  
 
-Each one is a seperate issue and seperately we continue to fail in fighting them. 
+            - Each one is a seperate issue and seperately we continue to fail in fighting them. 
 
-Once the string of logic is followed, the common threads become more obvious.
+                - Once the string of logic is followed, the common threads become more obvious.
 
-Those string can be seen tugging on the epidemic and substance use statistics. 
-Their names; War on Drugs, and Stigma. 
+                - Those strings can be seen tugging on the epidemic, substance use, and recidivistic statistics. 
+                    
+                    - Their names
+                           
+                           - War on Drugs, and 
+                           
+                           - Stigma. 
 
 ---
 
@@ -183,6 +214,18 @@ Their names; War on Drugs, and Stigma.
 ---
 
 Finally, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for replenishment of opportunity and equality for all sub-sectors of American Citizens. This will certainly create a long-lasting domino effect tilting the tides to the favor of the people . While further weakening and helping fuel the fire that is going to bring America to Drug War Ends. Just as prohibition finds its end. And We the People continue on demanding actual actionable alternative answers.
+
+> Real-time build. More to come. 
+
+## SXSW 2020 Pitch registration closes at midnight CST in less than 48 hours. And as a lean startup, we need to source the $220 registration fee if that it is in our plans. In the meantime, we are going to remain steadfast and press on; holding onto the ideals and core values of continuous improvement, measurable good works, and faith in something more. STAY TUNED! Chase the Dream! Join the Team!
+
+[fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective)
+---|---
+[The Collective gmail & Pay Pal](malto:oudcollective@gmail.com "Struggled with putting that up and not asking anyone for handouts or monetary support, but should you feel compeelled, you now have the ability to assist. We will be establishing a transparent ledger / account as soon as virtual or greenbacks become part of this equation.") | 470.327.2626 main line / 404.484.0424 Google Voice
+
+God Speed
+
+C-Brennan-Poole
 
 
 
