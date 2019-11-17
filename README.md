@@ -26,7 +26,7 @@
 ---
 
 ### Mission 
-> Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious problems which are far too prevalent in North America today and havr.
+> Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious people problems that are far too prevalent in North America today.
 
 ---
 #### MODEL
