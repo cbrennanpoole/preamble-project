@@ -2,22 +2,19 @@
 🍑🌱 | 💨🏃🌪
 
 ---
-> Please note: This is a real-time build. Errors exist. Typos do too. Please feel free to assist in correcting. And by all mens if anything on here can be irrefutably proven, you are invited to engage in a mature and objective discussion. The goal here isn't fame or fortune. It's an honest attempt at an altruistic for profit and we need your support. 
+> Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion. 
 
+*The goal here isn't fame or fortune. It's an honest attempt at an ethical, professional alternative option and for profit business model. __And we need your support.__*
 ---
-
 ## One Year Status Update
 
-[Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | Google Cloud for Startups Aug '19-Present
+[Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Aug '19-Present](https://bit.ly/BrennnanCerts "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
 [CrunchBase Top 75k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019") | [Crunchbase Top 15k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank is 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier.")
 [South By Southwest 2020 SXSW2020 Pitch](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff and as a lean model, it's doubtful we will be able to source the registration fee in time to capitalize off this amazing opportunity.") |[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, the same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.")
 
 ---
-> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November"). 
----
-
-> CV Sciences is on a [mission](https://cvsciences.com/about-us/ "Maybe someday I'll be able to share why this is so significant to the Chasing the Wind story.") to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products.  
+> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). 
 
 ---
 ## Current Project(s) 
@@ -29,21 +26,15 @@
 ---
 
 ### Mission 
-
-> Our mission is to leverage the Cannabis Cause and everything it stands for with the sustainable business model millennial's are mastering, the push for renewable resources, and the health and wellness movement with the funding opportunities our government continues to work toward, the open learning and open source resources that can help bridge the skills gap to deliver a transparent cloud architecture digital solution with alternative answers (like hemp health) to the people who need them most (socioeconomically disadvantaged minorities); while addressing the most egregious problems that are far too Prevalent in America Today.
+> Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious problems which are far too prevalent in North America today and havr.
 
 ---
-
 #### MODEL
-Ours is a multi-faceted framework and sustainable model with compliant marketing models and lean management principals for the cannabis and whole plant hemp industry.
-
+> Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals. With an eye on the long using transformational and kaizen leadership to develop human resources for the cannabis and whole plant hemp industry.
 ---
-
 #### CORNERSTONE
-Our cornerstone and core competency is Total Customer Satisfaction thru Total Quality Management with an eye on the long. 
-
+Our cornerstone and core competency is Total Customer Satisfaction thru quality management principles with clearly defined goals and key performance indicators (KPI).  
 ---
-
 #### OBJECTIVES
 1. Improve cannabis and hemp industry image through measurable works.
 
@@ -71,9 +62,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
         - THC Free Phytocannabinoid Rich
         - Recreational (in time) 
         - Industrial Hemp
-  
- ---
-
+---
 ### Qualitative Goals
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
 2. Leverage the same plant that, to this day, continues to be unjustly used to incarcerate over 600,000 Americans per year, as means to gainful employment, opportunity, economic stability, and improved pscyhe of the formerly incarcerated.
@@ -93,17 +82,15 @@ Our cornerstone and core competency is Total Customer Satisfaction thru Total Qu
     - IT
     - Cannabis Sativa
         - Whole Plant Hemp
-        - Ancillary services relating to both Information Technology and the agribusiness sector that the once criminalized  Cannabis will continue to cause global revolutionary hyper=growth for; as people and communities realize the message, acknowledging God's green herbaceous health and wellness Plants; while complementing the surging sustainability models, and renewable mindsets.
-        
-
+        - Ancillary services relating to both Information Technology and the agribusiness sector that the once criminalized cannabis will continue to cause global revolutionary hyper-growth for; as people and communities realize the message, acknowledging God's green herbaceous health and wellness plants; while complementing the surging sustainability models, and renewable mindsets.
 ---
 
 ### Elements: 
 
----
 
 The People Problems | The Plant Problems | The Profitability Possibilities
 ---|---|---
+A Multi-directional Overview | ⬇ | ➡ 
 Growing Gaps | Psychoactive-Free Phytocannabinoid Rich | Cannabidiol Craze
 Substance Use Disorder (SUD) | Medical Maijuana  | Grant Funding  
 Opioid Crisis | Recreational | Okay Google Actions are needed
@@ -115,7 +102,7 @@ Greed | Non-compliant Market | Ancillary Services
 
 ### Non-Negotiables
 1. Open source, open border, open for all as an always accessible, fully transparent repository on the github.com platform.
-1.  All-inlcusive. Expect and respect diversity. A True Meritocracy.
+1.  All-inlcusive. Expect and respect diversity. A [True Meritocracy](https://www.theatlantic.com/business/archive/2011/11/is-true-meritocracy-impossible/248264/ ".
 1. Establish  and implement simple yet actionable measurables fueling data-driven Solutions.
 1. Launch from Google Cloud Platform; full leverage of the platform and resources as to progressively deliver current and emerging technologies, utilize all that is machine learning, Artificial Intelligence, kubernetes, and Natural Language Processing. 
     
@@ -219,13 +206,18 @@ Finally, by bringing those problems together, the underlying issues (lack of opp
 
 ## SXSW 2020 Pitch registration closes at midnight CST in less than 48 hours. And as a lean startup, we need to source the $220 registration fee if that it is in our plans. In the meantime, we are going to remain steadfast and press on; holding onto the ideals and core values of continuous improvement, measurable good works, and faith in something more. STAY TUNED! Chase the Dream! Join the Team!
 
-[fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective)
----|---
-[The Collective gmail & Pay Pal](malto:oudcollective@gmail.com "Struggled with putting that up and not asking anyone for handouts or monetary support, but should you feel compeelled, you now have the ability to assist. We will be establishing a transparent ledger / account as soon as virtual or greenbacks become part of this equation.") | 470.327.2626 main line / 404.484.0424 Google Voice
+---
+
+> Update: SXSW has waived the regisreation fees (🙏🏽)!
+
+---
 
 God Speed
 
 C-Brennan-Poole
+[fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective)
+---|---
+470.327.2626 main line / 404.484.0424 Google Voice
 
 
 
