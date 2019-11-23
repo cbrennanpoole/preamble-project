@@ -28,7 +28,7 @@ our community a harassment-free experience for everyone, regardless of
 - religion, or
 - sexual identity and orientation.
 ---
-> To quote the King, "content of character" is what matters here at the Chasing the Wind, LLC (and the multitude of ancillay projects in development that ctw 💨🏃🏽‍♀️🏃🏽‍♂️🌪umbrella's).
+> To quote the King, "content of character" is what matters here at the Chasing the Wind, LLC (and the multitude of ancillary projects in development that ctw 💨🏃🏽‍♀️🏃🏽‍♂️🌪umbrella's).
 ---
 ## Our Standards
 
@@ -41,7 +41,7 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of __unacceptable behavior__ by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
  advances
@@ -51,6 +51,8 @@ Examples of unacceptable behavior by participants include:
  address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting
+* Subjective thinking.
+* Groupthink disease.
 
 ## Our Responsibilities
 
