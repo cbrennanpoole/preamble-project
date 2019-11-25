@@ -6,11 +6,10 @@
 > Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion. 
 ---
 ```
-The goal here isn't fame or fortune. It's an honest attempt at an ethical, professional alternative option and for profit business model.
+The goal here isn't fame or fortune. It's an ethical, professional option and for profit business model.
 ```
 ---
-## *__And we need your support.__*
-
+> __And we need your support.__
 ---
 ## One Year In (very little to report up until week fifty two; 9- 16 Nov, 2019. Things got real. Real fun)!
 ---
@@ -18,8 +17,8 @@ The goal here isn't fame or fortune. It's an honest attempt at an ethical, profe
 [Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Aug '19-Present](https://bit.ly/BrennnanCerts "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
 [CrunchBase Top 75k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019") | [Crunchbase Top 15k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank is 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier.")
-[South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff and as a lean model, it's doubtful we will be able to source the registration fee in time to capitalize off this amazing opportunity.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
-[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, the same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | Momentum it's a wonderful thing! 
+[South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff; as a lean model, we were doubtful we would be able to source the registration fee in time to capitalize off this amazing opportunity and told them this. Their response. Waive the fee. Not once, but twice.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
+[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | Momentum it's a wonderful thing! 
 
 ---
 
@@ -35,25 +34,25 @@ The goal here isn't fame or fortune. It's an honest attempt at an ethical, profe
 > *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.*
 
 ---
-#### Mission 
+### Mission 
 ---
 
 > Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious people problems that are far too prevalent in North America today.
 
 ---
-#### MODEL
+### MODEL
 ---
 
 > Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals. With an eye on the long using transformational and kaizen leadership to develop human resources for the cannabis and whole plant hemp industry.
 
 ---
-#### CORNERSTONE
+### CORNERSTONE
 ---
 
 Our cornerstone and core competency is Total Customer Satisfaction thru quality management principles with clearly defined goals and key performance indicators (KPI).  
 
 ---
-#### OBJECTIVES
+### OBJECTIVES
 ---
 
 1. Improve cannabis and hemp industry image through measurable works.
@@ -95,7 +94,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
        - Industrial Hemp
 
 ---
-#### Qualitative Goals
+## Qualitative Goals
 ---
 
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
@@ -117,7 +116,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     - added tax revenues from an uncollected and unresolved illicit marijuana market.
 
 --- 
-### Quantitative Goals
+## Quantitative Goals
 ---
 
 1. See Prohibition End
@@ -169,7 +168,7 @@ Greed | Non-compliant Market | Ancillary Services
 ---
 
 ---
-#### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
+## [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 ---
 
 Their motto:
@@ -188,7 +187,7 @@ Simple | Attainable | Lean | Unquestionable Measurables
 **Served 460 students since '10** | **12 locations Ca, In, Ks, Ok** | **0% recidivism rate** | **National Avg. 55%**
 
 ---
-### Chasing the Wind's Ancillary Model 
+## Chasing the Wind's Ancillary Model 
 ---
 
 Diagnostic | therapeutic | Custodial 
@@ -200,7 +199,10 @@ Prospecting | Training | From 1st Day Out
 ### The People Problems
 ---
 
+---
 #### **IT and the Digital Skills Gap**
+---
+
 Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 ---
@@ -209,7 +211,7 @@ Cloud Services, IT, and Machine Learning  are developing at break-neck speeds wh
 
 Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
 
-While what was already an 
+**While what was already an**
 
 - __overcrowded__
 
@@ -228,6 +230,7 @@ It was not instituted to play the role it currently holds. As the doorstop for t
 ---
 > The board of Pardons and Paroles and all fifty states Departments of Community Supervision front, middle, and rear entries, have all been stuck in motion for the better part of fifty years; right in line with the passing of The Civil Rights Act of Nineteen Hundred and Sixy Four. Just as Drug Wars found their beginnings. 
 ---
+
 ---
 #### **SUD & The Opioid Epidemic**
 ---
@@ -249,21 +252,26 @@ Making the connection with substance misuse, the opioid crisis, and recidivistic
                 - Those strings can be seen tugging on the epidemic, substance use, and recidivistic statistics. 
                   
                   - Their names
-                  
+                  `
                       - War on Drugs.
                   
                       - Stigma.
-
+                  `
 ---
 > Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
 ---
 
-Finally, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for __replenishment of opportunity__ and __equality for all sub-sectors of North American Citizens__. 
+__Finally__, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for __replenishment of opportunity__ and __equality for all sub-sectors of North American Citizens__. 
 
-The hypothesis is these events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire, that is going to bring America to Drug War Ends. __Just as prohibition finds its end. And We the People continue on demanding actual actionable alternative answers.__
+**The hypothesis** is these events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire that is *going to bring America to Drug War Ends.* 
+
+__Just as prohibition finds its end.__
+
+__And We the People continue demanding actual, actionable, alternative answers.__
 
 ---
 > Real-time build. More to come. 
+---
 
 ---
 #### (16 Nov. 2019) Latest Updates
@@ -277,7 +285,7 @@ STAY TUNED! Chase the Dream! Join the Team!_
 #### (21 Nov 2019) Latest Updates (Real-time Journey of Continuous Improvement and constant personal, professional, and organizational development).
 ---
 
-1. SXSW has waived the registration fees (🙏🏽)! (_See faith line 269 (:smile:_))
+1. SXSW waived the registration fees (🙏🏽)! (_See faith line 269 (:smile:_))
     
     - Not just once but twice! We were late with entering and had some technical and personal difficulties due to having my daughter in my lap and facing the deadline (with an opportunity of a lifetime sitting on the screens in front of me). __A most gracious gesture by them that we never expected or asked for. So South by Southwest, from us to y'all, Thank You for that underserved favor!__
     
@@ -287,7 +295,12 @@ STAY TUNED! Chase the Dream! Join the Team!_
 
 4. CBD Group has reached out about aligning or acquiring. Doubt they'd acquire as my number is set. $7,172,017. Birthday of my only daughter and epitome of everything undeserved kindness stands for: Miss ShiloHisGrace; Shiloh Grace Poole.
 
-5. Able to capture $10,000 from Digital Ocean thanks to Y Combinator's Startup School. __Seriously need a CTO AND skyrocket progression of technical proficiencies as to be able to take all this momentum is and convert into an actionable framework / helluva possible business pitch and some profitable beginnings. 
+5. Able to capture **$10,000 thanks to  Digital Ocean and The Y Combinator Startup School program we particpated in earlier this year.**
+
+---
+>__Seriously need a CTO AND__ somehow figure out how to skyrocket progression of technical proficiencies; to be able to take all this momentum and convert it into an MVP and scalable framework / could make for one amazing business pitch and almost immediate profitability if somehow we align and coalesce with the Chief Technical Equity Holder. __FAITH__.
+---
+
 
 ---
 
@@ -305,9 +318,13 @@ Principal Chief Operations Officer
 Chasing the Wind, llc 
 
 ---
-[fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective) | [Linkedin](https://linkedin.com/in/oudcollective "Let's Connect!")
+[fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective) | [Leafedin](https://linkedin.com/in/oudcollective "Let's Connect!")
 ---|---|---
-470.327.2626 main line | 404.482.0424 Google Voice | [Email](mailto:chief@chasingthewindllc.com)
+470.327.2626 main line | 678.338.7339 mobile | [Email](mailto:chief@chasingthewindllc.com)
+[Linkedin](https://linkedin.com/in/brennanpoole "original account with less than 600 connections that somehow caught the #OpenForBusiness Feature while the one all this work has come from has yet to receive the all-new service.") | [Chasing the Pins](https://www.pinterest.com/chasingthewindllc "Pinterest Business Beginnings and an unorgaznized account of the entire project.") | [Twitter](https://twitter.com/oudcollective "Care to CC0-11-aborate? The OUD Collective Official Twitter feed")
+
 ---
+ 
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ ---
 
