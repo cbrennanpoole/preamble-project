@@ -1,6 +1,9 @@
 # Chasing the Wind, LLC Business Beginnings
+---
 🍑🌱 | 💨🏃🌪
-
+---
+![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg)
+**<a href="http://www.freepik.com">Designed by vectorpouch / Freepik</a>**
 
 ---
 > Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion. 
@@ -34,7 +37,7 @@ The goal here isn't fame or fortune. It's an ethical, professional option and fo
 > *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.*
 
 ---
-#### Mission 
+### Mission 
 ---
 
 > Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious people problems that are far too prevalent in North America today.
@@ -43,7 +46,7 @@ The goal here isn't fame or fortune. It's an ethical, professional option and fo
 #### MODEL
 ---
 
-> Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals. With an eye on the long using transformational and kaizen leadership to develop human resources for the cannabis and whole plant hemp industry.
+> Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals and an eye on the long. Using transformational and kaizen leadership to develop human resources for Information Technology, and the cannabis, and whole plant hemp industry.
 
 ---
 #### CORNERSTONE
@@ -73,7 +76,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     
     - Doers. 
 
-1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action and hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
+1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action. Hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
 
 1. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for farms, farmers, families, and ecommerce/retail businesses. 
 
@@ -133,7 +136,13 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     
         - Whole Plant Hemp
         
-        - Ancillary services relating to both __Information Technology__ and agribusiness, __agribusiness,__ __camping and Georgia Tourism__, the once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings; as people and communities realize the message, acknowledging God's green herbaceous health and wellness plants; while complementing the surging sustainability models, and renewable mindsets.
+        - Ancillary services relating to both __Information Technology__ and agribusiness, plus __camping and Georgia Tourism__.
+        
+            - The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.
+            
+                - As people and communities realize the message, acknowledging God's green herbaceous health and wellness plants; 
+                
+                - A perfect complement to the surging sustainability models, and renewable mindsets.
 
 ---
 ### Elements: 
@@ -281,7 +290,7 @@ __And We the People continue demanding actual, actionable, alternative answers._
 ##### _SXSW 2020 Pitch registration closes at midnight CST in less than 48 hours. And as a lean startup, we need to source the $220 registration fee if that it is in our plans. In the meantime, we are going to remain steadfast and press on; holding onto the ideals and core values of continuous improvement, measurable good works, and faith in something more. 
 ---
 
-STAY TUNED! Chase the Dream! Join the Team!_
+__STAY TUNED! Chase the Dream! Join the Team!__
 
 ---
 #### (21 Nov 2019) Latest Updates (Real-time Journey of Continuous Improvement and constant personal, professional, and organizational development).
@@ -289,13 +298,15 @@ STAY TUNED! Chase the Dream! Join the Team!_
 
 1. __SXSW waived the registration fees (🙏🏽)!__ (_See faith line 269).
     
-    - Not just once but twice! We were late with entering and had some technical and personal difficulties due to having my daughter in my lap and facing the deadline (with an opportunity of a lifetime sitting on the screens in front of me). __A most gracious gesture by them that we never expected or asked for. So South by Southwest, from us to y'all, Thank You for that underserved favor!__
+    - Not just once but twice! We were late with entering and had some technical and personal difficulties due to having my daughter in my lap and facing the deadline (with an opportunity of a lifetime sitting on the screens in front of me).
+    
+    > __A most gracious gesture by them that we never expected or asked for. So South by Southwest, from us to y'all, Thank You for that undeserved kindness!__
     
 2. (24 Nov, 2019) [4,682 CB Rank Last check ](https://www.crunchbase.com/person/c-brennan-poole "Profile created on 9 Nov 2019 and we're up over 360,000 spots with a __ethical whole-self growth hack approach__.")
 
 3. The tech publication Red Herring has also extended an invite to register for the Top 100 Startups. Still need to do our due diligence before deciding on that.
 
-4. CBD Group has reached out about aligning or acquiring. Doubt they'd acquire as my number is set. $7,172,017. Birthday of my only daughter and epitome of everything undeserved kindness stands for: Miss ShiloHisGrace; Shiloh Grace Poole.
+4. CBD Group has reached out about aligning or acquiring. Doubt they'd acquire as my number is set. $7,172,017. Birthday of my only daughter and epitome of everything undeserved kindness stands for: Miss Shiloh Grace Poole.
 
 5. Able to capture **$10,000 thanks to  Digital Ocean and The Y Combinator Startup School program we particpated in earlier this year.**
 
@@ -303,11 +314,11 @@ STAY TUNED! Chase the Dream! Join the Team!_
 ##### __Seriously need a CTO AND__ somehow figure out how to skyrocket progression of technical proficiencies; to be able to take all this momentum and convert it into an MVP and scalable framework / could make for one amazing business pitch and almost immediate profitability if somehow we align and coalesce with the Chief Technical Equity Holder. __FAITH__.
 ---
 
-### Intecllectual Property of Chasing the Wind, LLC 
+### Intellectual Property of Chasing the Wind, LLC 
 ---
 
-ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon | an Ecclesiastical Engine | and IP Development LLC
----|---|---|---|---
+ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon
+---|---|---
 cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com
 __Total Customer Satisfaction__ thru  __Toyota Way Quality Management __ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
 
