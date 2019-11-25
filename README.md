@@ -173,11 +173,11 @@ Greed | Non-compliant Market | Ancillary Services
     - _Chasing the Wind, llc_ has chosen to allocate __all benefits from the Google Cloud for Startups program & SUS__ recently awarded to be fully utilized in their entirety on the __preamble-project__, as a means to kickstart the launch, further extending and facilitating _lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce_.
 
 ---
-### Will it work?
+## Will it work?
 ---
 
 ---
-##### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
+### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 ---
 
 Their motto:
@@ -205,17 +205,17 @@ Prospecting | Training | From 1st Day Out
 🩺 | **w/ Best in Class Pay** | 🔬
   
 ---
-### __The People Problems__
+## __The People Problems__
 ---
 
 ---
-#### IT and the Digital Skills Gap
+### IT and the Digital Skills Gap
 ---
 
 Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 ---
-#### Recidivism / Reentry
+### Recidivism / Reentry
 ---
 
 Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
@@ -227,18 +227,12 @@ Recidivism rates are at their worst levels on Earth due to drug wars beginning t
     - __underfunded__
 
     - __exhausted reentry/community supervision__ model.
-
 ---  
-> A model that's original intention was to assist the formerly incarcerated and serve as a conduit back to some sense of normalcy. As the newly released struggle with strengthening their psyche and overcoming stigma disease. 
----
+A model that's original intention was to assist the formerly incarcerated and serve as a conduit back to some sense of normalcy. As the newly released struggle with strengthening their psyche and overcoming stigma disease. 
 
----
-> It was not instituted to play the role it currently holds. As the doorstop for the turnstile that has created what is otherwise known as the revolving door policy of the American Criminal [in]Justice System.
----
+It was not instituted to play the role it currently holds. As the doorstop for the turnstile that has created what is otherwise known as the revolving door policy of the American Criminal [in]Justice System.
 
----
-> The board of Pardons and Paroles and all fifty states Departments of Community Supervision front, middle, and rear entries, have all been stuck in motion for the better part of fifty years; right in line with the passing of The Civil Rights Act of Nineteen Hundred and Sixy Four. Just as Drug Wars found their beginnings. 
----
+The board of Pardons and Paroles and all fifty states Departments of Community Supervision front, middle, and rear entries, have all been stuck in motion for the better part of fifty years; right in line with the passing of The Civil Rights Act of Nineteen Hundred and Sixy Four. Just as Drug Wars found their beginnings. 
 
 ---
 #### **SUD & The Opioid Epidemic**
@@ -267,7 +261,7 @@ Making the connection with substance misuse, the opioid crisis, and recidivistic
                       - Stigma.
                   
 ---
-> Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
+#### Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
 ---
 
 __Finally__, by bringing those problems together, the underlying issues (lack of opportunity / diminishing self-worth) will surface becoming more visible to the unaffected. Which is the inertia we seek. Allowing for __replenishment of opportunity__ and __equality for all sub-sectors of North American Citizens__. 
@@ -302,7 +296,7 @@ __STAY TUNED! Chase the Dream! Join the Team!__
     
     > __A most gracious gesture by them that we never expected or asked for. So South by Southwest, from us to y'all, Thank You for that undeserved kindness!__
     
-2. (24 Nov, 2019) [4,682 CB Rank Last check ](https://www.crunchbase.com/person/c-brennan-poole "Profile created on 9 Nov 2019 and we're up over 360,000 spots with a __ethical whole-self growth hack approach__.")
+2. (24 Nov, 2019) [4,296 CB Rank Last check ](https://www.crunchbase.com/person/c-brennan-poole "Profile created on 9 Nov 2019 and we're up over 360,000 spots with a __ethical whole-self growth hack approach__.")
 
 3. The tech publication Red Herring has also extended an invite to register for the Top 100 Startups. Still need to do our due diligence before deciding on that.
 
@@ -319,8 +313,8 @@ __STAY TUNED! Chase the Dream! Join the Team!__
 
 ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon
 ---|---|---
-cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com
-__Total Customer Satisfaction__ thru  __Toyota Way Quality Management __ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
+**cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com**
+__Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
 
 ---
 
@@ -332,9 +326,9 @@ Began as a moonshot of a dream while on a sojourn and __seven year wilderness wa
 God Speed Good Friends!
 ---
 
-C-Brennan-Poole
-Principal Chief Operations Officer
-Chasing the Wind, llc 
+C Brennan Poole
+Principal Chief Operating Officer
+Chasing the Wind, llc | 💨🏃🏽‍♀️🏃🏽‍♂️🌪
 
 ---
 
