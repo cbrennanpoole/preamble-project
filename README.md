@@ -34,25 +34,25 @@ The goal here isn't fame or fortune. It's an ethical, professional option and fo
 > *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.*
 
 ---
-### Mission 
+#### Mission 
 ---
 
 > Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious people problems that are far too prevalent in North America today.
 
 ---
-### MODEL
+#### MODEL
 ---
 
 > Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals. With an eye on the long using transformational and kaizen leadership to develop human resources for the cannabis and whole plant hemp industry.
 
 ---
-### CORNERSTONE
+#### CORNERSTONE
 ---
 
 Our cornerstone and core competency is Total Customer Satisfaction thru quality management principles with clearly defined goals and key performance indicators (KPI).  
 
 ---
-### OBJECTIVES
+#### OBJECTIVES
 ---
 
 1. Improve cannabis and hemp industry image through measurable works.
@@ -94,7 +94,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
        - Industrial Hemp
 
 ---
-## Qualitative Goals
+### Qualitative Goals
 ---
 
 1. Bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our American prison systems, county jails, and juvenile detention centers.  Into the hands of our socioeconomically disadvantaged; a grossly under, and unemployed subsector of the US economy.
@@ -116,7 +116,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     - added tax revenues from an uncollected and unresolved illicit marijuana market.
 
 --- 
-## Quantitative Goals
+### Quantitative Goals
 ---
 
 1. See Prohibition End
@@ -150,7 +150,7 @@ Greed | Non-compliant Market | Ancillary Services
 **SWOT** | **Call to Act** | **Summary**
 
 ---
-### Non-Negotiables
+#### Non-Negotiables
 ---
 
 1. Open source, open border, open for all as an always accessible, fully transparent repository on the github.com platform.
@@ -161,20 +161,20 @@ Greed | Non-compliant Market | Ancillary Services
 
 1. Launch from Google Cloud Platform; full leverage of the platform and resources as to progressively deliver current and emerging technologies, utilize all that is machine learning, Artificial Intelligence, kubernetes, and Natural Language Processing. 
     
-    - Chasing the Wind, llc has chosen to allocate all benefits from the Google Cloud for Startups program & SUS recently awarded to be fully utilized in their entirety on the preamble-project, as a means to kickstart the launch, further extending and facilitating lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce (:wink:)). 
+    - _Chasing the Wind, llc_ has chosen to allocate __all benefits from the Google Cloud for Startups program & SUS__ recently awarded to be fully utilized in their entirety on the __preamble-project__, as a means to kickstart the launch, further extending and facilitating _lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce_.
 
 ---
 ### Will it work?
 ---
 
 ---
-## [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
+##### [The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 ---
 
 Their motto:
 
 ---
-  > **Changing Lives Through Tech**
+  > *Changing Lives Through Tech*
 ---
 
 ---
@@ -187,7 +187,7 @@ Simple | Attainable | Lean | Unquestionable Measurables
 **Served 460 students since '10** | **12 locations Ca, In, Ks, Ok** | **0% recidivism rate** | **National Avg. 55%**
 
 ---
-## Chasing the Wind's Ancillary Model 
+### Chasing the Wind's Ancillary Model 
 ---
 
 Diagnostic | therapeutic | Custodial 
@@ -196,35 +196,35 @@ Prospecting | Training | From 1st Day Out
 🩺 | **w/ Best in Class Pay** | 🔬
   
 ---
-### The People Problems
+### __The People Problems__
 ---
 
 ---
-#### **IT and the Digital Skills Gap**
+#### IT and the Digital Skills Gap
 ---
 
 Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 ---
-#### **Recidivism / Reentry**
+#### Recidivism / Reentry
 ---
 
 Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
 
-**While what was already an**
+- While what was already an
 
-- __overcrowded__
+    - __overcrowded__
 
-- __underfunded__
+    - __underfunded__
 
-- __exhausted reentry/community supervision__ model.
+    - __exhausted reentry/community supervision__ model.
 
 ---  
 > A model that's original intention was to assist the formerly incarcerated and serve as a conduit back to some sense of normalcy. As the newly released struggle with strengthening their psyche and overcoming stigma disease. 
 ---
 
 ---
-It was not instituted to play the role it currently holds. As the doorstop for the turnstile that has created what is otherwise known as the revolving door policy of the American Criminal [in]Justice System.
+> It was not instituted to play the role it currently holds. As the doorstop for the turnstile that has created what is otherwise known as the revolving door policy of the American Criminal [in]Justice System.
 ---
 
 ---
@@ -252,11 +252,11 @@ Making the connection with substance misuse, the opioid crisis, and recidivistic
                 - Those strings can be seen tugging on the epidemic, substance use, and recidivistic statistics. 
                   
                   - Their names
-                  `
+                  
                       - War on Drugs.
                   
                       - Stigma.
-                  `
+                  
 ---
 > Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease. 
 ---
@@ -277,7 +277,9 @@ __And We the People continue demanding actual, actionable, alternative answers._
 #### (16 Nov. 2019) Latest Updates
 ---
 
-_SXSW 2020 Pitch registration closes at midnight CST in less than 48 hours. And as a lean startup, we need to source the $220 registration fee if that it is in our plans. In the meantime, we are going to remain steadfast and press on; holding onto the ideals and core values of continuous improvement, measurable good works, and faith in something more. 
+---
+##### _SXSW 2020 Pitch registration closes at midnight CST in less than 48 hours. And as a lean startup, we need to source the $220 registration fee if that it is in our plans. In the meantime, we are going to remain steadfast and press on; holding onto the ideals and core values of continuous improvement, measurable good works, and faith in something more. 
+---
 
 STAY TUNED! Chase the Dream! Join the Team!_
 
@@ -285,7 +287,7 @@ STAY TUNED! Chase the Dream! Join the Team!_
 #### (21 Nov 2019) Latest Updates (Real-time Journey of Continuous Improvement and constant personal, professional, and organizational development).
 ---
 
-1. SXSW waived the registration fees (🙏🏽)! (_See faith line 269 (:smile:_))
+1. __SXSW waived the registration fees (🙏🏽)!__ (_See faith line 269).
     
     - Not just once but twice! We were late with entering and had some technical and personal difficulties due to having my daughter in my lap and facing the deadline (with an opportunity of a lifetime sitting on the screens in front of me). __A most gracious gesture by them that we never expected or asked for. So South by Southwest, from us to y'all, Thank You for that underserved favor!__
     
@@ -298,17 +300,23 @@ STAY TUNED! Chase the Dream! Join the Team!_
 5. Able to capture **$10,000 thanks to  Digital Ocean and The Y Combinator Startup School program we particpated in earlier this year.**
 
 ---
->__Seriously need a CTO AND__ somehow figure out how to skyrocket progression of technical proficiencies; to be able to take all this momentum and convert it into an MVP and scalable framework / could make for one amazing business pitch and almost immediate profitability if somehow we align and coalesce with the Chief Technical Equity Holder. __FAITH__.
+##### __Seriously need a CTO AND__ somehow figure out how to skyrocket progression of technical proficiencies; to be able to take all this momentum and convert it into an MVP and scalable framework / could make for one amazing business pitch and almost immediate profitability if somehow we align and coalesce with the Chief Technical Equity Holder. __FAITH__.
 ---
 
-
+### Intecllectual Property of Chasing the Wind, LLC 
 ---
 
 ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon | an Ecclesiastical Engine | and IP Development LLC
 ---|---|---|---|---
-cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com | oudcollective.com | RabbitHoleWeb.com 
-__Total Customer Satisfaction__ thru  __Toyota Way Quality Management __ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com  | Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time for Goodbye's; Hello. I'm Late! For a very important date!_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
+cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com
+__Total Customer Satisfaction__ thru  __Toyota Way Quality Management __ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
 
+---
+
+ oudcollective.com | RabbitHoleWeb.com 
+ ---|---
+Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time for Goodbye's; Hello. I'm Late! For a very important date!_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
+ 
 ---
 God Speed Good Friends!
 ---
@@ -318,6 +326,7 @@ Principal Chief Operations Officer
 Chasing the Wind, llc 
 
 ---
+
 [fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective) | [Leafedin](https://linkedin.com/in/oudcollective "Let's Connect!")
 ---|---|---
 470.327.2626 main line | 678.338.7339 mobile | [Email](mailto:chief@chasingthewindllc.com)
@@ -326,5 +335,6 @@ Chasing the Wind, llc
 ---
  
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ 
  ---
 
