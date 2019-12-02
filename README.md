@@ -363,12 +363,8 @@ In addition, we spoke with companies in various stages of their **life cycle**, 
 **cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com**
 __Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
 
----
-
- ![Businesses](https://user-images.githubusercontent.com/50818414/69892643-a2fc5000-12d5-11ea-89c2-3b34336b5a5d.png "Doing Business As The OUD Collective, Cannabis Cognizance, Cannabusiness Logistics, and Cannabidiol to Recovery; with Preamble-Project, Leafedin-on-Linkedin Growth-Hack-Attack and Portfolio Project currently in motion; prepared to pivot since the business beginnings")    
+![Businesses](https://user-images.githubusercontent.com/50818414/69892643-a2fc5000-12d5-11ea-89c2-3b34336b5a5d.png "Doing Business As The OUD Collective, Cannabis Cognizance, Cannabusiness Logistics, and Cannabidiol to Recovery; with Preamble-Project, Leafedin-on-Linkedin Growth-Hack-Attack and Portfolio Project currently in motion; prepared to pivot since the business beginnings")    
  
----
-
  oudcollective.com | RabbitHoleWeb.com 
  ---|---
 Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time for Goodbye's; Hello. I'm Late! For a very important date!_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
