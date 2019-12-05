@@ -1,60 +1,64 @@
-# Chasing the Wind, LLC Business Beginnings
+# Chasing the Wind
 ---
-🍑🌱 | 💨🏃🌪
----
-![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg)
-**<a href="http://www.freepik.com">Designed by vectorpouch / Freepik</a>**
+```
+"to bring logic to stigma; sh—IT–'stics"
+```
 
+## __🚛💵💨___🚜💵💨__💨___🏃___🌪___🌪___🌪__
 ---
-> Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion. 
----
+  
+  Welcome to Preamble-Project. The precursor to a feasible dream and our Business Beginnings.
+![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
+       [Designed by vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱
 ```
 The goal here isn't fame or fortune. It's an ethical, professional option and for profit business model.
 ```
----
-> __And we need your support.__
----
-## One Year In (very little to report up until week fifty two; 9- 16 Nov, 2019. Things got real. Real fun)!
----
 
-[Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Aug '19-Present](https://bit.ly/BrennnanCerts "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
+> __And we need your support.__
+
+## One Year In 
+---
+> _Things got interesting on day 364!_
+
+[Y Combinator StartupSchool / June-Aug '19](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Aug '19-Present](http://bit.ly/CBP-Record-of-Success/ "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
-[CrunchBase Top 75k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019") | [Crunchbase Top 15k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank is 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier.")
+[CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50 List on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 6k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; FAITH y'all; FAITH.")
 [South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff; as a lean model, we were doubtful we would be able to source the registration fee in time to capitalize off this amazing opportunity and told them this. Their response. Waive the fee. Not once, but twice.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
 [Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | Momentum it's a wonderful thing! 
 
 ---
 
-> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). 
+> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). Formation as a legal entity was made prematurely with profits from an ethical photocannabinoid rich stock manufacturer as a means to motivate and help us keep our eye on the prize. Ethically, of course. 
 
----
+
 ## Current Project(s) 
 ---
 
----
+
 ### Preamble-Project
 ---
+
 > *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.*
 
----
-### Mission 
+
+### MISSION 
 ---
 
-> Chasing the Wind is on a mission to leverage the cannabis / hemp hyper-growth markets and everything the cause stands for with the sustainable business model millennial's are mastering, the push for renewable resources, rural prosperity, and the health and wellness movement; with our government's commitment to ending epidemics and creating opportunity; by utilizing the open learning and open source resources available for all; to help bridge the skills gap; delivering a transparent, cloud architecture digital, common ground solution / alternative answers (like hemp health); for veterans, the disabled, and the formerly incarcerated; ultimately addressing the most egregious people problems that are far too prevalent in North America today.
+> Chasing the Wind is on a mission to leverage the cannabis cause and everything it stands for with the sustainable business model millennials' are mastering, the push for renewable resources and reusable energies while fully-utilizing funding opportunities the US government has earmarked for the opioid / substance use crisis, rural prosperity initiatives, sustainable models, and bridging of skills gaps; by identifying or creating open source solutions as an open startup with intentions of full utilization of LMS, common good works, and creative commons copyright works / resources; all to help bridge the digital skills gap as to deliver transparent cloud architecture, and state-of-the-art emerging technologies into North American prisons, jails, juveniles and shelters, and using alternative answers (like hemp health) as a common ground topic for people who are in most need of the ability to capture the American Dream (the socioeconomically disadvantaged minority); in effect addressing the most egregious problems which are far too prevalent in North America Today. Those problems—tackling recidivism rates with a real reentry resource, curbing the black marijuana market with opportunity for gainful employment starting first day out, bridging the skills gap by using the skills causing the gap, and sign, sealing, and delivering a measurable, feasible epidemic solution and model directly to our nation's leaders, inside their ineffective institutions, supplemented with their grant funding, and finally as a for-profit Levitical seven year model.
 
----
+
 ### MODEL
 ---
 
 > Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals and an eye on the long. Using transformational and kaizen leadership to develop human resources for Information Technology, and the cannabis, and whole plant hemp industry.
 
----
+
 ### CORNERSTONE
 ---
 
 Our cornerstone and core competency is Total Customer Satisfaction thru quality management principles with clearly defined goals and key performance indicators (KPI).  
 
----
+
 ### OBJECTIVES
 ---
 
@@ -85,66 +89,101 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     - Providing an actionable scale capable option.
 
 1. Presenting the case for **cannabis** and 
-    - **opportunity** that exists in the **State of Georgia.**
+    - **Opportunity** that exists in the **State of Georgia.**
    
    - New Frontier Data projects Georgia as the highest potential revenue in the medical market
           - THC Free Phytocannabinoid Rich
           - Recreational (in time) 
           - Industrial Hemp
 
----
 #### Qualitative Goals
 ---
 
 1. **Help bridge the skills gap** by delivering readily available resources to provide the __applied digital skills training__ into our 
-    - **American prison systems,**
-    - **County Jails,** and 
-    - **Juvenile detention centers.**
-        - Into the hands of our **socioeconomically disadvantaged minorities**; 
-            - A grossly **Under,**
-            - **Unemployed,** and 
-            - **Unemployable** *subsector of the US economy.*
-
-2. Leverage the same plant that, to this day, continues to be **unjustly used to incarcerate over 600,000 Americans per year**, as means to 
-    - *Gainful employment*, 
-    - **Opportunity**, 
-    - **Economic stability**, and 
-    - **Improved pscyhe** of the *formerly incarcerated.*
-
+    - Veterans' Centers
+    - Adult Learning Facilities (for disabled or otherwise),
+    - American prison systems,
+    - County Jails, and 
+    - Juvenile detention centers.
+        - Into the hands of our **socioeconomically disadvantaged minorities**;     
+            - A grossly       
+                - **Under,**        
+                - **Un-** and,        
+                - **Unemployable** *subsector of the North American economies'.*
+2. Leverage the same plant, that, to this day, continues to be **unjustly used to incarcerate over 600,000 Americans per year**, as means to 
+    - ***Gainful employment***, 
+    - ***Opportunity*** 
+    - ***Economic stability*** and 
+    - ***Improved pscyhe*** of the 
+        - ***Formerly Incarcerated.***
 3. In *making the problem the solution*, the **expected outcome** is:
-
     - **reduction of the illicit marijuana market**
-    - *boost* to the 
-        - **Medicinal,**
-        - **Recreational,** and 
-        - **Whole herbaceous plant; hemp plant sector.** 
-    
-    - **Added tax revenues** from 
-        - An *uncollected* and 
-        - **unresolved illicit marijuana market.**
+    - *boost* to the     
+        - ***Medicinal,***    
+        - ***Recreational,*** and     
+        - ***Whole herbaceous plant; hemp plant sector.***
+    - ***Added tax revenues*** from      
+        - ***Uncollected*** and     
+        - **Unresolved illicit marijuana market.**
 
---- 
+---
+
+> ***Sentencing policies of the War on Drugs era
+> resulted in dramatic growth in incarceration for
+> drug offenses. Since its official beginning in the
+> 1980s, the number of Americans incarcerated
+> for drug offenses has skyrocketed from 40,900
+> in 1980 to 452,900 in 2017.***
+>
+> ***Furthermore, harsh sentencing laws such as mandatory minimums
+> keep many people convicted of drug offenses in
+> prison for longer periods of time: in 1986, people
+> released after serving time for a federal drug
+> offense had spent an average of 22 months in
+> prison.*** 
+>
+> ***By 2004, people convicted on federal drug
+> offenses were expected to serve almost three
+> times that length: 62 months in prison.***
+>
+> ***At the federal level, people incarcerated on a
+> drug conviction make up nearly half the prison
+> population. At the state level, the number of people
+> in prison for drug offenses has increased ninefold since 1980. 
+> Although it has begun declining in recent years.***
+> 
+> ***Most are not high-level actors in the
+> drug trade, and most have no prior criminal record
+> for a violent offense.***
+
+_Source:_ [The Sentencing Project](https://www.sentencingproject.org/wp-content/uploads/2016/01/Trends-in-US-Corrections.pdf "The Sentencing Project dot org credits Bronson, J. and Carson, E.A. 2019. Prisoners in 2017. Washington, DC: Bureau of Justice Statistics; James, D.J. 2004. Profile of Jail Inmates, 2002. Washington, DC: Bureau of Justice Statistics; Zeng, Z.2019. Jail Inmates in 2017. Washington, DC: Bureau of Justice Statistics.")
+    
+    
 #### Quantitative Goals
 ---
 
 1. See **Prohibition End**
-
 1. Realize **7 year exit strategy** & **conversion** to *not-for profit business model*.
     - **Long-term goal** is to help **Draft The *Opioid Epidemic Resolution* after pivoting** to full-time commitment on **tackling the substance use epidemic.**
-
 1. **Facilitate creation of 
     - **In-Demand, 
     - **High Growth**, 
     - **Well paying *careers*** over the course of the **next 7 years** in
-        - IT
-        - Cannabis Sativa
-            - Whole Plant Hemp
-        - Ancillary services relating to both 
-            - __Information Technology__ and 
-            - **Agribusiness,** plus 
-                - **Camping** and 
-                    - **Georgia Grown Agribusiness Tourism.**
----
+        - Information Technology sector
+        - Cannabis Sativa    
+            - Whole Plant Hemp    
+                - Ancillary services relating to
+                    1. ***IT*** and     
+                    2. ***Canna-business Logistics*** (*Supply-Chain Management, Our specialized interest*)        
+                    3. ***Agribusiness,*** plus 
+                    4. ***Agritourism, and     
+                        - **Camping**
+                        - RV Rentals 
+                            - Already gaining interest with a single post for a singular RV Rental; utilizing the
+                                - Outdoorsy network and app to solicit while on cruise-control.
+                        - **Georgia Grown Agribusiness Tourism.**
+
+[Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")
 
 > *The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.*
 >
@@ -361,13 +400,13 @@ In addition, we spoke with companies in various stages of their **life cycle**, 
  ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon 
 ---|---|---
 **cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com**
-__Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens__ email: Twenty20Times@cannabiscognizance.com
+__Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens.__ for more email: Twenty20Times@cannabiscognizance.com
 
 ![Businesses](https://user-images.githubusercontent.com/50818414/69892643-a2fc5000-12d5-11ea-89c2-3b34336b5a5d.png "Doing Business As The OUD Collective, Cannabis Cognizance, Cannabusiness Logistics, and Cannabidiol to Recovery; with Preamble-Project, Leafedin-on-Linkedin Growth-Hack-Attack and Portfolio Project currently in motion; prepared to pivot since the business beginnings")    
  
  oudcollective.com | RabbitHoleWeb.com 
  ---|---
-Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time for Goodbye's; Hello. I'm Late! For a very important date!_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
+Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time to say hello goodbye, I'm late, I'm late, I'm late!”_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
  
 ---
 God Speed Good Friends!
