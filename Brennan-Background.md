@@ -206,25 +206,23 @@ Mar 2008 - Jul 2009
 
 - Verify all service freight has been  
     - picked up,  
-    - accounted for,  
-    - handled properly,  
-    - loaded and   
-    - either closed or over the road (OTR) in AS400 software, with a plan to depart on time to destination to ensure service time.  
-
+        - accounted for,  
+            - handled properly,  
+                - loaded to ride (loaded, manifested, blocked / braced),  
+        - either closed or over the road (OTR) in AS400 software, with 
+        - a plan to depart on time to destination to ensure service time.  
 - Establish next day operations game plan by reviewing inbound tonnage levels.  
-
 - Ensure zone has the equipment to load on and reconcile equipment number to match status in software.  
-
-- Create a fluid transition and encourage cross-function collaboration with inbound operation team by 
+- Create fluid transition and encourage cross-function collaboration with inbound operation team by 
     - reconciling due service,   
     - monitoring and  
-    - auditing national account shipment status,  
+        - auditing national account shipment status,  
     - verifying shipments have been   
         - blocked,  
         - braced, and   
         - pin-wheeled, and   
         - verifying tools for zone have been replenished and organized.  
- ---
+ 
 ## Trainer- Server 
 Ted's Montana Grill / Atlanta, GA  
 Dec 2005 - May 2006  
