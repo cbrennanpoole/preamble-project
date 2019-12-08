@@ -7,7 +7,7 @@
 ## __🚛💵💨___🚜💵💨__💨___🏃___🌪___🌪___🌪__
 ---
   
-  Welcome to Preamble-Project. The precursor to a feasible dream and our Business Beginnings.
+  Welcome to Preamble-Project. The precursor to a feasible dream; on the precipice of these Twenty Twenty Times; like sand through the hour glass, these are our Business Beginnings. 
 ![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
        [Designed by vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱
 ```
@@ -28,7 +28,7 @@ The goal here isn't fame or fortune. It's an ethical, professional option and fo
 
 ---
 
-> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). Formation as a legal entity was made prematurely with profits from an ethical photocannabinoid rich stock manufacturer as a means to motivate and help us keep our eye on the prize. Ethically, of course. 
+> Founded 2018 Nov using gains made from stock purchase into [CV Sciences (OTC: CVSI)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). Formation as a legal entity was made prematurely with profits from an ethical *phytocannabinoid rich, whole herbaceous plant; hemp* manufacturer, as a means to motivate and help keep an eye on the prize. Three weeks later, life as I once knew it, would change. Forevever. Ultimately, for the better.
 
 
 ## Current Project(s) 
@@ -38,13 +38,18 @@ The goal here isn't fame or fortune. It's an ethical, professional option and fo
 ### Preamble-Project
 ---
 
-> *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or further incarceration.*
+> *We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or American incarceration.*
 
 
 ### MISSION 
 ---
 
 > Chasing the Wind is on a mission to leverage the cannabis cause and everything it stands for with the sustainable business model millennials' are mastering, the push for renewable resources and reusable energies while fully-utilizing funding opportunities the US government has earmarked for the opioid / substance use crisis, rural prosperity initiatives, sustainable models, and bridging of skills gaps; by identifying or creating open source solutions as an open startup with intentions of full utilization of LMS, common good works, and creative commons copyright works / resources; all to help bridge the digital skills gap as to deliver transparent cloud architecture, and state-of-the-art emerging technologies into North American prisons, jails, juveniles and shelters, and using alternative answers (like hemp health) as a common ground topic for people who are in most need of the ability to capture the American Dream (the socioeconomically disadvantaged minority); in effect addressing the most egregious problems which are far too prevalent in North America Today. Those problems—tackling recidivism rates with a real reentry resource, curbing the black marijuana market with opportunity for gainful employment starting first day out, bridging the skills gap by using the skills causing the gap, and sign, sealing, and delivering a measurable, feasible epidemic solution and model directly to our nation's leaders, inside their ineffective institutions, supplemented with their grant funding, and finally as a for-profit Levitical seven year model.
+
+- Bit long, let's condense it. 
+    - Chasing the Wind, llc is a Georgia Grown, lean, bootstrapped, sustainable startup using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable. 
+        - Long goals: curb the black market, bridge digital skills and socioeconomic gaps by delivering state-of-the-art emerging technologies into our North American Institutions while leveraging the herbaceous plant cannabis sativa as the common ground point-of-topic; to keep our target audience engaged, and objectively informed. 
+            - End goal: collectively co-pen Opioid Epidemic Resolution Article 05TEN!9.  
 
 
 ### MODEL
@@ -183,32 +188,29 @@ _Source:_ [The Sentencing Project](https://www.sentencingproject.org/wp-content/
                                 - Outdoorsy network and app to solicit while on cruise-control.
                         - **Georgia Grown Agribusiness Tourism.**
 
-[Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")
+![Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")    
+**Credit: [12 Industries That Will Thrive Thanks To MillennialsCBinsights.com](https://www.cbinsights.com/research/report/millennials-industries-thriving/ "Convenience Camping with gear rental and turnkey / concierge offerings coupled with the health and wellness whole plant efficacy in the state of Georgia is a natural fit in our eyes; creating diversification, and seasonality protections; at an affordable family-centric price point; partner: Poole Outdoors, LLC. NOTE: Family-owned as the founders are my brother and sister-in-law")
 
-> *The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.*
->
-> As people and communities realize the message, acknowledging **God's green herbaceous health** and **wellness plants;** 
-    - A *perfect complement* to the surging 
-        - **Sustainability Models,** and 
-        - **Renewable Mindsets.**
+> The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.    
 
----
-
+- As people and communities realize the message, acknowledging **God's green herbaceous health** and **wellness plants;** 
+    - A *perfect complement* to the surging     
+        - **Sustainability Models,** and     
+        - **Renewable Mindsets.**    
+        
 ### Elements: 
-
----
+---    
 
 The People Problems | The Plant Problems | The Profitability Possibilities
 ---|---|---
 A Multi-directional Overview | ⬇ | ➡ 
-Growing Gaps | Psychoactive-Free Phytocannabinoid Rich | Cannabidiol Craze
-Substance Use Disorder (SUD) | Medical Maijuana  | Grant Funding  
-Opioid Crisis | Recreational | Okay Google Actions are needed
-Recidivism & Reentry | Whole Plant Cannabacea | Industrial Hemp
-Greed | Non-compliant Market | Ancillary Services
+Growing Gaps | Psychoactive-Free Phytocannabinoid Rich | Cannabidiol Cause
+Substance Use Disorder (SUD) | Medical Maijuana  | Earmarked opioid epidemic Government and NGO Partnerships / Grant Funding.
+Opioid Crisis | Recreational | Okay Google Actions are needed (Siri, Alexa, Cortana, and [NFD's Zefyr](https://www.gozefyr.com/ "We've already reacohed out to Founder and Visionary Ms Giadha Aguirre de Carcer on Linkedin to inform her of our plans to utilize that amazing new acquisition.") you too).
+Recidivism & Reentry | Whole Plant Cannabacea | Rural Prosperity Task Force spearheaded by USDA (Head of Agriculture Sonny Perdue; Former Governor of Georgia, A multi-generational Georgia-Grown Farmer as well. 
+Greed | Non-compliant Market | All Ancillary Services
 **SWOT** | **Call to Act** | **Summary**
 
----
 #### Non-Negotiables
 ---
 
@@ -228,10 +230,8 @@ Greed | Non-compliant Market | Ancillary Services
 
 > _Chasing the Wind, llc_ has chosen to allocate __all benefits from the Google Cloud for Startups program & SUS__ recently awarded to be fully utilized in their entirety on the __preamble-project__, as a means to kickstart the launch, further extending and facilitating _lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce_.
 
----
-## **A California Company's Example and Proven Record of Success**
----
 
+## **A California Company's Example and Proven Record of Success**
 ---
 
 ### [The Last Mile Project](https://thelastmile.org/), a **framework and blueprint worthy of emulation**, *prepares incarcerated individuals for successful reentry through business and technology training.*
@@ -274,7 +274,25 @@ Cloud Services, IT, and Machine Learning  are developing at break-neck speeds wh
 
 
 > Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
-    - While what was already an
+
+- The causes cited for relapse into criminal behavior include
+    - A failure of prisons to rehabilitate
+        - Addiction,
+        - Lack of job skills, 
+        - Lack of educational upon entry and further stagnation while incarcerated,
+            - Soft skills oftentimes cease to exist or
+                - Have deteriorated to the point of near non-existance 
+        - Lack of sustainable funding upon release first day out with no actionable plans in place to immediately establish a fair, working income. 
+        - Environment either failed to improve while incarcerated or 
+            - Has further deteriorated due to burden incarceration creates to those that have supporting families on the outside,
+                - No family / social support system in place,
+                - Socioeconomics and the underlying disadvantages increased with new offense and employment gaps,
+                - **Stigma** that comes with criminality and the all-encompassing bucket of blame that society tends to associate that word with (especially in the current epidemic environment, associating addiction with criminality as an automatic, whereas is nothing more than stereotypical assumption). 
+Overall, rates of recidivism have been going up, according to the Bureau of Justice Statistics:
+
+
+
+- While what was already an
         - __overcrowded__
         - __underfunded__
         - __exhausted reentry/community supervision__ model.
