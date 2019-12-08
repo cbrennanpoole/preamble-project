@@ -320,8 +320,7 @@ It was not instituted to play the role it currently holds. As the doorstop for t
                     - Their names
                       - War on Drugs.
                       - Stigma.
-                  
----
+  
 > **Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease.**
 ---
 
@@ -331,9 +330,6 @@ __FINALLY__, by bringing these **people problems** together, the **underlying is
         - Allowing for 
             - __Replenishment of Opportunity__ and 
             - __Equality for all sub-sectors of North American Citizens__.**
-
----
-
 > ***THE HYPOTHESIS*** is these events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire that is ***going to bring America to Drug War Ends.***
 
 __Just as prohibition finds its end.__
@@ -398,14 +394,15 @@ __STAY TUNED! Chase the Dream! Join the Team!__
                         - coalesce with a Chief Technical **Equity** Holder. 
                             - __FAITH__.
                             
---- 
+
 
 ## Market Research
+
 We started by conducting market research on a broad selection of suppliers. By looking at five different
 companies suppliers across the country, we were able to analyze the data collected in
 order to help us determine the elements that would help us in making the preamble-project a lasting success. The
 categories we focused on included price, compliant marketing and customer engagement, distribution, product mix,
-and high concentration certificates of analysis. 
+and high concentration certificates of analysis.
 
 In addition, we spoke with companies in various stages of their **life cycle**, *some only a months old while others being first to market.*
 
@@ -415,9 +412,9 @@ In addition, we spoke with companies in various stages of their **life cycle**, 
 ### Intellectual Property of Chasing the Wind, LLC 
 
 
- ChasingtheWindllc.com | emoji-brand name: 💨🏃🏽‍♀️🏃🌪 | Chasing the Wind with reckless abandon 
+ ChasingtheWindllc.com | emoji-brand name: 💨🏃🌪 | "to bring logic to stigma; sh—IT–'stics"
 ---|---|---
-**cannabusinesslogistics.com | cbdtorecovery.com | cannabiscognizance.com**
+**cannabusinesslogistics.com** | ** cbdtorecovery.com**  | **cannabiscognizance.com**
 __Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __Kaizen Leadership Principle's__ email: leadership@cannabusinesslogistics.com |  An __actionable alternative__ to current __American Prescribing Practices__ and __recovery__ from the lasting effects caused by a _man-made greed-driven epidemic_; __The Opioid Crisis__; _An American People Problem of Epidemic Proportions._ email: epidemicends@cbdtorecovery.com | __Objective__  __Investigative Journalism__ meets the __Cannabis, Cannabusiness, Whole Hemp Health and Wellness__ industry. Right in line with those  __Twenty Twenty Times.__ Much much more to come from __kanebas kägnazens.__ for more email: Twenty20Times@cannabiscognizance.com
 
 ![Businesses](https://user-images.githubusercontent.com/50818414/69892643-a2fc5000-12d5-11ea-89c2-3b34336b5a5d.png "Doing Business As The OUD Collective, Cannabis Cognizance, Cannabusiness Logistics, and Cannabidiol to Recovery; with Preamble-Project, Leafedin-on-Linkedin Growth-Hack-Attack and Portfolio Project currently in motion; prepared to pivot since the business beginnings")    
@@ -426,14 +423,13 @@ __Total Customer Satisfaction__ thru  __Toyota Way Quality Management__ and  __K
  ---|---
 Began as a moonshot of a dream while on a sojourn and __seven year wilderness walk while wild-eyed worrying.__ The  _eclectic detective's socially conscientious mental health master peace._ __Dynamic Model.__ _Static mission_: Work without ceasing accumulating wealth while bootstrapping a divinely inspired __feasible dream__ to ultimately help __Draft and collectively co-pen  The Opioid Epidemic Resolution: Article 05TEN19__ email: detective@oudcollective.com | Ecommerce and Carroll, L inspired __educational resources__ / _daily tab building_ and __real-time informative environment.__ Want to take a __deep dive down White RabbitHoleWeb.com?__ _Oh My! I'm Late! I'm Late! I'm Late! No time to say hello goodbye, I'm late, I'm late, I'm late!”_ ani-brand Name: 🐇⛳🕸 for ecommerce partnership potential or further information email: DeepDown@RabbitholeWeb.com 
  
----
+
 God Speed Good Friends!
 ---
 
 C Brennan Poole
 Principal Chief Operating Officer
 Chasing the Wind, llc | 💨🏃🏽‍🌪
-
 ---
 
 [fb Messenger ](https://m.me/inthebusinessbusiness) | [Telegram](https://t.me/oudcollective) | [Leafedin](https://linkedin.com/in/oudcollective "Let's Connect!")
@@ -445,6 +441,4 @@ Chasing the Wind, llc | 💨🏃🏽‍🌪
 
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise notated, The Chasing the Wind, LLC operates under an open startup, open culture methodology and works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6537-7683" href="https://orcid.org/0000-0001-6537-7683" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6537-7683</a></div>
  ---|---
- 
- ---
-
+ <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> | [Chasing the Pins](https://wwww.pinterest.com/chasing-the-wind-llc/
