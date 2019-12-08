@@ -288,8 +288,8 @@ Cloud Services, IT, and Machine Learning  are developing at break-neck speeds wh
                 - No family / social support system in place,
                 - Socioeconomics and the underlying disadvantages increased with new offense and employment gaps,
                 - **Stigma** that comes with criminality and the all-encompassing bucket of blame that society tends to associate that word with (especially in the current epidemic environment, associating addiction with criminality as an automatic, whereas is nothing more than stereotypical assumption). 
-Overall, rates of recidivism have been going up, according to the Bureau of Justice Statistics:
-
+Overall, rates of recidivism have been going up, according to the [Bureau of Justice Statistics:](https://www.bjs.gov/index.cfm?ty=tp&tid=17 "Rates range from 43-mid 80's at various stages of reentry, the longer you're out worse the odds.")
+Source: www.recidivism.com
 
 
 - While what was already an
@@ -441,4 +441,4 @@ Chasing the Wind, llc | 💨🏃🏽‍🌪
 
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise notated, The Chasing the Wind, LLC operates under an open startup, open culture methodology and works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6537-7683" href="https://orcid.org/0000-0001-6537-7683" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6537-7683</a></div>
  ---|---
- <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> | [Chasing the Pins](https://wwww.pinterest.com/chasing-the-wind-llc/
+ <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> Align with us from the Hollywood of the South, Covington, Georgia | [Chasing the Pins](https://wwww.pinterest.com/chasing-the-wind-llc/)
