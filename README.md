@@ -13,10 +13,10 @@
 
 > We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or American incarceration.
 
-## 🌬__🚛💵💵💨__ _🏃_ 🌪 _ 💻 _ 🌪 🔬  🌿 _ 🚜 _ ⛈_ 🌞 _ 🌱
+## 🌬__🚛💵💵💨__ _ 🏃 _ 🌪 _ 🌪 🔬  🌿 _ 🚜 _ ⛈_ 🌞 _ 🌱
 ---
   
-  Welcome to Preamble-Project. The precursor to a feasible dream; on the precipice of these Twenty Twenty Times; like sand through the hour glass, these are our Business Beginnings. 
+Welcome to Preamble-Project. The precursor to a feasible dream; on the precipice of these Twenty Twenty Times; like sand through the hour glass, these are our Business Beginnings. 
 ![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
        [Designed by vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱
 ```
@@ -52,7 +52,6 @@ Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://f
           - Ultimately, for the better.     
               - Leading to everything that is **Chasing the Wind, llc.**
 
-
 ## MISSION
 ---
 
@@ -67,7 +66,7 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 ## VISION 
 ---
 
-**Deliver **truly transparent, cloud architecture**, utilizing **state-of-the-art emerging technologies** and a common good approach to partner with the private and liaison to the public sectors in order to deliver these digital solutions into North American institutions (prisons, jails, juveniles, centers, schools and shelters). 
+**Deliver a truly transparent, cloud architecture**, utilizing **state-of-the-art emerging technologies** and a common good approach to partner with the private and liaison to the public sectors in order to deliver these digital solutions into North American institutions (prisons, jails, juveniles, centers, schools and shelters). 
 
 **Putting alternative answers *like hemp health* to an altruistic test**; serving as the *common ground topic* for our people who are in most need of the ability to capture the ***opportunity*** that is the ***North American Dream*** (i.e. socioeconomic disadvantaged minorities, disabled, and our freedom fighters, United States Veterans); in effect addressing the most egregious problems; caused by an unwinnable war that has only worsened over the past forty some odd years; North American (and becoming global) people problems, which are far too prevalent on our continent today.
 
@@ -89,21 +88,21 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 
 ### END GAME: 
 ---
+
     1. Collectively co-pen Opioid Epidemic Resolution Article 05TEN!9.
     2. Defeat of stigma.
     3. Drug War Ends. 
     4. Opportunity for all begins.
-    5. [***The Beloved Community***](https://thekingcenter.org/king-philosophy/ "As Dr. King often said, Injustice anywhere is a threat to justice everywhere. He felt that justice could not be parceled out to individuals or groups, but was the birthright of every human being in the Beloved Community.”) is that much closer to actualization.
+    5. [The Beloved Community](https://thekingcenter.org/king-philosophy/ "As Dr. King often said, Injustice anywhere is a threat to justice everywhere; He felt that justice could not be parceled out to individuals or groups, but was the birthright of every human being in the Beloved Community”) is that much closer to actualization.
 
 Addressing the ***most egregious problems which are far too prevalent in North America Today.*** 
 
 > Extreme poverty can be a cause of specific human rights violations, for instance because the poor are forced to work in environments that are unsafe and unhealthy. At the same time, poverty can also be a consequence of human rights violations, for instance when children are unable to escape poverty because the State does not provide adequate access to education.
->
-> [Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx ”The Special Rapporteur is an independent expert appointed by the Human Rights Council and undertakes the following main tasks  1- conducting research and analysis to be presented in separate thematic reports to the Human Rights Council and the General Assembly; 2- undertaking country visits and reporting on the situation in those countries in relation to the concerns of the mandate; 3- sending letters to governments and other relevant entities in situations in which violations of human rights of people living in extreme poverty are alleged to have taken place.”)
 
-`
+[Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx)
+
 Chasing the Wind, llc is a Georgia Grown, lean, bootstrapped, sustainable startup using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our intercontinental institutions. 
-`
+
 
 ### MODEL
 ---
