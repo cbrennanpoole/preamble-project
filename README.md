@@ -60,6 +60,10 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 
 ***All to help bridge the digital skills and widening wealth gaps.***
 
+> 75 million jobs are expected to be displaced by 2022 in 20 major economies. At the same time, technological advances and new ways of working could also create 133 million new roles, driven by large-scale growth in new products and services that would allow people to work with machines and algorithms to meet the demands of demographic shifts and economic changes.
+>
+>Source: [2018 Future of Jobs Report. World Economic Forum](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf)
+
 ## VISION 
 ---
 
@@ -78,19 +82,28 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
     5. Leveraging the herbaceous plant cannabis sativa as the **common ground point-of-topic**; to keep our ***target audience engaged***, and ***objectively informed***.
         - Create first-day out opportunities for those that put in the ***self-work*** and wholly to commit to ***self-worth***. 
 
+> It’s critical that individuals take a proactive approach to their own lifelong learning. In addition, businesses and governments need to actively support workforces in learning and developing skills.
+>
+> Klaus Schwab, [2018 Future of Jobs report](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf "Founder and Executive Chairman of the World Economic Forum")
+
+
 ### END GAME: 
 ---
     1. Collectively co-pen Opioid Epidemic Resolution Article 05TEN!9.
     2. Defeat of stigma.
     3. Drug War Ends. 
     4. Opportunity for all begins.
-    5. **The Beloved Community** is that much closer to actualization.
+    5. [***The Beloved Community***](https://thekingcenter.org/king-philosophy/ "As Dr. King often said, Injustice anywhere is a threat to justice everywhere. He felt that justice could not be parceled out to individuals or groups, but was the birthright of every human being in the Beloved Community.”) is that much closer to actualization.
 
-Addressing the **most egregious problems which are far too prevalent in North America Today.*** 
+Addressing the ***most egregious problems which are far too prevalent in North America Today.*** 
 
-```
+> Extreme poverty can be a cause of specific human rights violations, for instance because the poor are forced to work in environments that are unsafe and unhealthy. At the same time, poverty can also be a consequence of human rights violations, for instance when children are unable to escape poverty because the State does not provide adequate access to education.
+>
+> [Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx ”The Special Rapporteur is an independent expert appointed by the Human Rights Council and undertakes the following main tasks  1- conducting research and analysis to be presented in separate thematic reports to the Human Rights Council and the General Assembly; 2- undertaking country visits and reporting on the situation in those countries in relation to the concerns of the mandate; 3- sending letters to governments and other relevant entities in situations in which violations of human rights of people living in extreme poverty are alleged to have taken place.”)
+
+`
 Chasing the Wind, llc is a Georgia Grown, lean, bootstrapped, sustainable startup using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our intercontinental institutions. 
-```
+`
 
 ### MODEL
 ---
@@ -150,7 +163,7 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     - American prison systems,
     - County Jails, and 
     - Juvenile detention centers.
-        - Into the hands of our **socioeconomically disadvantaged minorities**;     
+        1. Into the hands of our **socioeconomically disadvantaged minorities**;     
             - A grossly       
                 - **Under,**        
                 - **Un-** and,        
@@ -250,7 +263,7 @@ The People Problems | The Plant Problems | The Profitability Possibilities
 A Multi-directional Overview | ⬇ | ➡ 
 Growing Gaps | Psychoactive-Free Phytocannabinoid Rich | Cannabidiol Cause
 Substance Use Disorder (SUD) | Medical Maijuana  | Earmarked opioid epidemic Government and NGO Partnerships / Grant Funding.
-Opioid Crisis | Recreational | Okay Google Actions are needed (Siri, Alexa, Cortana, and [NFD's Zefyr](https://www.gozefyr.com/ "We've already reacohed out to Founder and Visionary Ms Giadha Aguirre de Carcer on Linkedin to inform her of our plans to utilize that amazing new acquisition.") you too).
+Opioid Crisis | Recreational | Okay Google Actions are needed (Siri, Alexa, Cortana, and [NFD's Zefyr](https://www.gozefyr.com/ "We've already reacohed out to Founder and Visionary Ms Giadha Aguirre de Carcer on Linkedin to inform her of our plans to utilize that amazing new acquisition.") you too.
 Recidivism & Reentry | Whole Plant Cannabacea | Rural Prosperity Task Force spearheaded by USDA (Head of Agriculture Sonny Perdue; Former Governor of Georgia, A multi-generational Georgia-Grown Farmer as well. 
 Greed | Non-compliant Market | All Ancillary Services
 **SWOT** | **Call to Act** | **Summary**
@@ -278,16 +291,14 @@ Greed | Non-compliant Market | All Ancillary Services
 #### **A California Company's Example and Proven Record of Success**
 ---
 
-##### [The Last Mile Project](https://thelastmile.org/), a **framework and blueprint worthy of emulation**, *prepares incarcerated individuals for successful reentry through business and technology training.*
+[The Last Mile Project](https://thelastmile.org/), a **framework and blueprint worthy of emulation**, *prepares incarcerated individuals for successful reentry through business and technology training.*
 
----
-
-###### The Last Mile Project's Tagline:
+The Last Mile Project's Tagline:
 
 > ***Changing Lives Through Tech***
 ---
 
-####### The Last Mile's ***Four-pillars of Success***
+The Last Mile's ***Four-pillars of Success***
 
 Education | Vocation | Expansion | Reentry
 ---|---|---|---
@@ -307,7 +318,7 @@ Prospecting eager candidates | **Training and mentoring** *(possibly aiding with
 ## The [People Problems](https://https://www.psychologytoday.com/us/blog/toward-less-egoic-world/201706/most-problems-are-people-problems)
 ---
 
-### IT and the [Digital Skills Gap](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/Skill%20shift%20Automation%20and%20the%20future%20of%20the%20workforce/MGI-Skill-Shift-Automation-and-future-of-the-workforce-May-2018.ashx
+### IT and the [Digital Skills Gap](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/Skill%20shift%20Automation%20and%20the%20future%20of%20the%20workforce/MGI-Skill-Shift-Automation-and-future-of-the-workforce-May-2018.ashx)
 ---
 
 ***Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.***
@@ -316,7 +327,7 @@ Prospecting eager candidates | **Training and mentoring** *(possibly aiding with
 #### CITE SEEING
 ---
 > *Competition for high-skill workers will increase, while displacement will be concentrated mainly on low-skill workers, continuing a
-> trend that has exacerbated income inequality and reduced middle-wage jobs.* [Mckinsey.com quoting from matrials by the World Economic Forum](https://www.mckinsey.com/industries/public-sector/our-insights/inequality-a-persisting-challenge-and-its-implications
+> trend that has exacerbated income inequality and reduced middle-wage jobs.* [Mckinsey.com quoting from matrials by the World Economic Forum](https://www.mckinsey.com/industries/public-sector/our-insights/inequality-a-persisting-challenge-and-its-implications)
 ---
 
 > The US needs more workers and needs to do a better job of educating, preparing, and retraining the potential workers it already has to > ensure that all Americans are positioned to prosper in the face of future economic competition. Critically, workforce advantages the  > US once enjoyed can only be rebuilt by better accessing the full diversity of our available talent— including from groups whose       > potential contributions the US has failed to fully support and cultivate in the past. [Growing the American Work Force from the Committee for Economic Development](https://www.ced.org/reports/growing-the-american-workforce)
@@ -344,11 +355,10 @@ MORE!
 Overall, rates of recidivism have been going up, according to the [Bureau of Justice Statistics:](https://www.bjs.gov/index.cfm?ty=tp&tid=17 "Rates range from 43-mid 80's at various stages of reentry, the longer you're out worse the odds.")
 Source: www.recidivism.com
 
-
-- While what was already an
-        - __overcrowded__
-        - __underfunded__
-        - __exhausted reentry/community supervision__ model.
+- While what was already an    
+    - __overcrowded__    
+    - __underfunded__    
+    - __exhausted reentry/community supervision__ model.
 
 A model that's original intention was to assist the formerly incarcerated and serve as a conduit back to some sense of normalcy. As the newly released struggle with strengthening their psyche and overcoming stigma disease. 
 
@@ -360,34 +370,34 @@ MORE!
 ---
 
 - Making the connection with substance misuse, the opioid crisis, and recidivistic statistics is a simple Aristotelian logic equation. 
-    - Wars were claimed on Drugs. 
-    - Non-violent, victimless crimes became felonious; carrying mandatory minimum discriminatory sentences. 
+    1. Wars were claimed on Drugs. 
+    2. Non-violent, victimless crimes became felonious; carrying mandatory minimum discriminatory sentences. 
         - Causing addicts to become public enemy number one. 
         - With America in the throes of a socioeconomic war, that either, lost sight of the intended target, or never understood who to target from the onset.  
-            - Each one is a __seperate issue__ and _seperately we continue to fail in fighting them._ 
+            1. Each one is a __seperate issue__ and _seperately we continue to fail in fighting them._ 
                 - Once the string of logic is followed, the common threads become more obvious.
                 - Those strings can be seen tugging on the epidemic, substance use, and recidivistic statistics. 
-                    - Their names
+                    1. Their names
                       - War on Drugs.
                       - Stigma.
   
 > Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease.
 ---
 
-__FINALLY__, by bringing these **people problems** together, the **underlying issues
+- __FINALLY__, by bringing these **people problems** together, the **underlying issues
     - *lack of Opportunity, and 
     - Diminishing Self-Worth* will surface becoming more visible to the unaffected. 
     - The inertia we seek. 
-        - Allowing for 
+        1. Allowing for 
             - __Replenishment of Opportunity__ and 
             - __Equality for all sub-sectors of North American Citizens__.**
 
 ### HYPOTHESIS
 ---
 
-these events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire that is ***going to bring America to Drug War Ends.***
+These events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire that is ***going to bring America to Drug War Ends.***
 
-__Just as prohibition finds its end.__
+> __Just as prohibition finds its end.__
 
 ```
 Allowing We the People to continue demanding actual, actionable, alternative answers.
@@ -423,7 +433,6 @@ TBD
 
 __STAY TUNED! Chase the Dream! Join the Team!__
 
----
 
 #### 21 Nov 2019 Latest Updates
 ---
