@@ -13,25 +13,21 @@
 
 > We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or American incarceration.
 
-## 🌬__🚛💵💵💨__ _ 🏃 _ 🌪 _ 🌪 🔬  🌿 _ 🚜 _ ⛈_ 🌞 _ 🌱
+## Welcome to Preamble-Project. 
 ---
-  
-Welcome to Preamble-Project. The precursor to a feasible dream; on the precipice of these Twenty Twenty Times; like sand through the hour glass, these are our Business Beginnings. 
+> The precursor to a feasible dream. On the precipice of these Twenty 20 times.
+
+
 ![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
-       [Designed by vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱
-```
-The goal here isn't fame or fortune. It's an ethical, professional option and for profit business model.
-```
-
-> __And we need your support.__
-
+       Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱 🌬_ 🚛💵💨_ 🏃 _ 🌪 🚜 _ ⛈_ 🌞 _ 🌱 
+       
 Year One Milestones  
 ---
 > Things only got interesting 350 days in!
 
 [Y Combinator SUS 2019](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Sep 21 '19-Present](http://bit.ly/CBP-Record-of-Success/ "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
-[CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 5k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867 FAITH y'all; FAITH, BIGFACTS.")
+[CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 5k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867; 11 Dec 3,479 for Founder and 47,933 for CTW; FAITH y'all; FAITH, BIGFACTS.")
 [South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff; as a lean model, we were doubtful we would be able to source the registration fee in time to capitalize off this amazing opportunity and told them this. Their response. Waive the fee. Not once, but twice.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
 [Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | [Dribbble Chief Zack Onisko extends Player invite](https://dribbble.com/Brennan-Poole "This is big on many levels and not because I am a designer or plan to become one, rather because it requires our creatives, artists, and authors to have any hope of success with scaling and disseminating the message; plus it's our creatives, authors, and authors who happen to be most affected by the problems we aim to resolve; On 6 May, 2019 Chasing the Wind, llc began a targeted attack hack on Dribbble, only to forego it, knowing we had no real leverage or added value to bring to the table and as of 9 December Twenty 19 it seems full circles have come to fruition and that value add has become a potential asset to the platform we absolutely need")
 
@@ -57,7 +53,7 @@ Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://f
 
 Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering, the **push for renewable resources** and **reusable energies** while **fully-utilizing funding opportunities the US government has earmarked** for the *opioid / substance use crisis, rural prosperity initiatives, sustainable models, and bridging of skills gaps*; by **identifying or creating open source solutions** as an *open startup* with intentions of **full utilization of LMS, common good works**, and *creative commons copyright; some rights reserved.*
 
-***All to help bridge the digital skills and widening wealth gaps.***
+***All to help bridge the digital skills and the widening wealth gaps.***
 
 > 75 million jobs are expected to be displaced by 2022 in 20 major economies. At the same time, technological advances and new ways of working could also create 133 million new roles, driven by large-scale growth in new products and services that would allow people to work with machines and algorithms to meet the demands of demographic shifts and economic changes.
 >
@@ -432,7 +428,7 @@ TBD
 
 __STAY TUNED! Chase the Dream! Join the Team!__
 
-
+BELOW IS RUNNING LOG, MIGRATION TO GHOST CMS SOON.
 #### 21 Nov 2019 Latest Updates
 ---
 
