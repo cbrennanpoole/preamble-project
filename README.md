@@ -2,7 +2,7 @@
 ---
 
 ```
-"to bring logic to stigma; sh—IT–'stics"
+"to bring logiC–to–Stigma; sH—IT–'stics"
 ```
 
 ## Current Project(s) 
@@ -15,7 +15,7 @@
 
 ## Welcome to Preamble-Project. 
 ---
-> The precursor to a feasible dream. On the precipice of these Twenty 20 times.
+> The precursor to a feasible dream.
 
 
 ![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
@@ -27,7 +27,7 @@ Year One Milestones
 
 [Y Combinator SUS 2019](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Sep 21 '19-Present](http://bit.ly/CBP-Record-of-Success/ "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
-[CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 5k Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867; 11 Dec 3,479 for Founder and 47,933 for CTW; FAITH y'all; FAITH, BIGFACTS.")
+[CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 2500 Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867; 11 Dec 3,479 for Founder and 47,933 for CTW; 25 Dec, 2019 CB Rank 2331 Goal Made; FAITH.")
 [South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff; as a lean model, we were doubtful we would be able to source the registration fee in time to capitalize off this amazing opportunity and told them this. Their response. Waive the fee. Not once, but twice.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
 [Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | [Dribbble Chief Zack Onisko extends Player invite](https://dribbble.com/Brennan-Poole "This is big on many levels and not because I am a designer or plan to become one, rather because it requires our creatives, artists, and authors to have any hope of success with scaling and disseminating the message; plus it's our creatives, authors, and authors who happen to be most affected by the problems we aim to resolve; On 6 May, 2019 Chasing the Wind, llc began a targeted attack hack on Dribbble, only to forego it, knowing we had no real leverage or added value to bring to the table and as of 9 December Twenty 19 it seems full circles have come to fruition and that value add has become a potential asset to the platform we absolutely need")
 
@@ -66,10 +66,11 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 
 **Putting alternative answers *like hemp health* to an altruistic test**; serving as the *common ground topic* for our people who are in most need of the ability to capture the ***opportunity*** that is the ***North American Dream*** (i.e. socioeconomic disadvantaged minorities, disabled, and our freedom fighters, United States Veterans); in effect addressing the most egregious problems; caused by an unwinnable war that has only worsened over the past forty some odd years; North American (and becoming global) people problems, which are far too prevalent on our continent today.
 
-> ***The problems, continue to be attacked separately. While the schism continues to seperate.***
+> The problems, continue to be attacked separately. While the schism continues to seperate.
 
 ### LONG GOALS 
 ---
+
     1. Curb the black market, 
     2. Bridge digital skills and 
     3. Socioeconomic Gaps.
@@ -79,7 +80,7 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 
 > It’s critical that individuals take a proactive approach to their own lifelong learning. In addition, businesses and governments need to actively support workforces in learning and developing skills.
 >
-> Klaus Schwab, [2018 Future of Jobs report](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf "Founder and Executive Chairman of the World Economic Forum")
+Source: Klaus Schwab, [2018 Future of Jobs report](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf "Founder and Executive Chairman of the World Economic Forum")
 
 
 ### END GAME: 
@@ -95,21 +96,27 @@ Addressing the ***most egregious problems which are far too prevalent in North A
 
 > Extreme poverty can be a cause of specific human rights violations, for instance because the poor are forced to work in environments that are unsafe and unhealthy. At the same time, poverty can also be a consequence of human rights violations, for instance when children are unable to escape poverty because the State does not provide adequate access to education.
 
-[Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx)
+Source: [Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx)
 
-Chasing the Wind, llc is a Georgia Grown, lean, bootstrapped, sustainable startup using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our intercontinental institutions. 
+Chasing the Wind, llc is a Georgia Grown, lean, sustainable startup. Using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our North American Institutions. 
 
 
 ### MODEL
 ---
 
-> Ours is a multi-faceted framework. And a sustainable model. With ethical FDA compliant marketing practices. Lean management principals and an eye on the long. Using transformational and kaizen leadership to develop human resources for Information Technology, and the cannabis, and whole plant hemp industry.
+Ours is a multi-faceted framework and a sustainable model with ethical FDA compliant marketing practices. 
+
+Lean management principals. 
+
+And an eye on the long. 
+
+Using transformational and kaizen leadership to develop human resources for Information Technology, the cannabis, and whole plant hemp industry.
 
 
 ### CORNERSTONE
 ---
 
-Our cornerstone and core competency is Total Customer Satisfaction thru quality management principles with clearly defined goals and key performance indicators (KPI).  
+Our cornerstones (x4) are Total Customer Satisfaction thru quality management principles with clearly defined goals / key performance indicators (KPI), and an eye on the long.  
 
 
 ### OBJECTIVES
@@ -121,27 +128,34 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
     - COA web scrape and comprehensive analysis of the current testing methods and questionable marketing tactics used by labs/brands to confuse the dilution that currently exists. 
     - Forensic analysis of Marijuana Tax  Revenues.
     -  Starting with the State of Colorado to determine why the state with a billion in Tax revenues.
-    - The most successful cannabis program on earth still has its teachers heading up walk-outs (strikes) and demanding better conditions for them and the children they teach. 
+    - The most successful cannabis program on earth still has its teachers heading up walk-outs and demanding better conditions for them and the children they teach. 
  
  1. A deep dive into the actual actionable works accomplished by some of the not-for-profits in industry. 
-    - Talkers.
-    - Doers. 
+   
+   - Talkers.
+   
+   - Doers. 
 
 1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action. 
-    - Hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
+   
+   - Hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
 
 1. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for 
-    - farms, farmers, families, and 
-    - ecommerce/retail businesses. 
+  
+  - Farms, 
+  - Farmers, 
+  - Families,
+  - Labs, and 
+  - E-commerce / Retail Businesses. 
 
-1. Simplify the process of **self-learning digital skills** by creating a **clear, simple path** for **all to follow; using best-in-class resources and a mentor-based knowledge base.**
+1. Simplify the process of **self-learning digital skills** by creating a **clear and simple path** for **all to follow; using best-in-class resources and a mentor-based knowledge base.**
     - [Google Applied Digital Skills](https://applieddigitalskills.withgoogle.com/c/en/curriculum.html?audience=adult_learners&topic=job_skills "Start a lesson: Explore the curriculum and choose a lesson that fits.")
 
 1. Improve awareness of recidivism rates while working with successful models to develop a national project using cloud architecture and emerging technologies to scale. 
-    - Addressing the black market and 
-    - Providing an actionable scale capable option.
+    - Addressing the **illicit market** and 
+    - Providing an easy-to-scale actionable answer.
 
-1. Presenting the case for **cannabis** and 
+1. Presenting 'The Case for **Cannabis**' and 
     - **Opportunity** that exists in the **State of Georgia.**
    
    - New Frontier Data projects Georgia as the highest potential revenue in the medical market
@@ -175,44 +189,32 @@ Our cornerstone and core competency is Total Customer Satisfaction thru quality 
         - ***Medicinal,***    
         - ***Recreational,*** and     
         - ***Whole herbaceous plant; hemp plant sector.***
-    - ***Added tax revenues*** from      
-        - ***Uncollected*** and     
-        - **Unresolved illicit marijuana market.**
+      - ***Added tax revenues*** from      
+         - ***Uncollected*** and     
+         - **Unresolved illicit marijuana market.**
 
 
-> *Sentencing policies of the War on Drugs era
-> resulted in dramatic growth in incarceration for
-> drug offenses. Since its official beginning in the
-> 1980s, the number of Americans incarcerated
-> for drug offenses has skyrocketed from 40,900
-> in 1980 to 452,900 in 2017.*
+> *Sentencing policies of the War on Drugs era resulted in dramatic growth in incarceration for
+> drug offenses. Since its official beginning in the 1980s, the number of Americans incarcerated
+> for drug offenses has skyrocketed from 40,900 in 1980 to 452,900 in 2017.*
 >
-> Furthermore, harsh sentencing laws such as mandatory minimums
-> keep many people convicted of drug offenses in
-> prison for longer periods of time: in 1986, people
-> released after serving time for a federal drug
-> offense had spent an average of 22 months in
-> prison.
+> *Furthermore, harsh sentencing laws such as mandatory minimums keep many people convicted of drug offenses in
+> prison for longer periods of time: in 1986, people released after serving time for a federal drug offense had 
+> spent an average of 22 months in prison.*
 >
-> By 2004, people convicted on federal drug
-> offenses were expected to serve almost three
-> times that length: 62 months in prison.
+> *By 2004, people convicted on federal drug offenses were expected to serve almost three times that length: 
+> 62 months in prison.*
 >
-> At the federal level, people incarcerated on a
-> drug conviction make up nearly half the prison
-> population. 
+> *At the federal level, people incarcerated on a drug conviction make up nearly half the prison population.*
 >
-> At the state level, the number of people
-> in prison for drug offenses has increased ninefold since 1980. 
+> *At the state level, the number of people in prison for drug offenses has increased ninefold since 1980.*
 > 
 > *Although, it has begun declining in recent years.*
 > 
-> Most are not high-level actors in the
-> drug trade, and most have **no prior criminal record**, or 
-> violent offenses (with a victim involved).
+> *Most are not high-level actors in the drug trade, and most have **no prior criminal record**, or violent offenses 
+> (with a victim involved).*
 
-__Source:__ 
-[Bronson J and Cason E.A. of The Sentencing Project and James D.J. of Bureau Justice of Statistics](https://www.sentencingproject.org/wp-content/uploads/2016/01/Trends-in-US-Corrections.pdf "The Sentencing Project .org 2019. Prisoners in 2017. Washington, DC: Bureau of Justice Statistics; James, D.J. 2004. Profile of Jail Inmates, 2002. Washington, DC: Bureau of Justice Statistics; Zeng, Z.2019. Jail Inmates in 2017. Washington, DC: Bureau of Justice Statistics.")
+Source: [Bronson J and Cason E.A. of The Sentencing Project and James D.J. of Bureau Justice of Statistics](https://www.sentencingproject.org/wp-content/uploads/2016/01/Trends-in-US-Corrections.pdf "The Sentencing Project .org 2019. Prisoners in 2017. Washington, DC: Bureau of Justice Statistics; James, D.J. 2004. Profile of Jail Inmates, 2002. Washington, DC: Bureau of Justice Statistics; Zeng, Z.2019. Jail Inmates in 2017. Washington, DC: Bureau of Justice Statistics.")
     
     
 #### Quantitative Goals
@@ -232,8 +234,8 @@ __Source:__
                     - IT and     
                     - Agribusiness, plus 
                     - Agritourism, and     
-                      - Camping
-                      - RV Rentals *(In partnership with Poole Outdoors, LLC)*
+                        - Camping
+                          - RV Rentals *(In partnership with Poole Outdoors, LLC)*
                 2. Canna-business Logistics (*Supply-Chain Management, Our specialized interest)                
                         
                         
@@ -241,14 +243,14 @@ Already gaining interest with a single post for a singular RV Rental having rent
   - **Georgia Grown Agribusiness Tourism.**
 
 ![Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")    
-**Credit: [12 Industries That Will Thrive Thanks To MillennialsCBinsights.com](https://www.cbinsights.com/research/report/millennials-industries-thriving/ "Convenience Camping with gear rental and turnkey / concierge offerings coupled with the health and wellness whole plant efficacy in the state of Georgia is a natural fit in our eyes; creating diversification, and seasonality protections; at an affordable family-centric price point; partner: Poole Outdoors, LLC. NOTE: Family-owned as the founders are my brother and sister-in-law")
+**Credit: [12 Industries That Will Thrive Thanks To MillennialsCB Insights.com](https://www.cbinsights.com/research/report/millennials-industries-thriving/ "Convenience Camping with gear rental and turnkey / concierge offerings coupled with the health and wellness whole plant efficacy in the state of Georgia is a natural fit in our eyes; creating diversification, and seasonality protections; at an affordable family-centric price point; partner: Poole Outdoors, LLC. NOTE: Family-owned as the founders are my brother and sister-in-law")
 
-> The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.    
+The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.    
 
-- As people and communities realize the message, acknowledging **God's green herbaceous health** and **wellness plants;** 
-    - A *perfect complement* to the surging     
-        - **Sustainability Models,** and     
-        - **Renewable Mindsets.**    
+As people and communities realize the message, acknowledging **God's green herbaceous health** and **wellness plants;** 
+- A *perfect complement* to the surging     
+    - **Sustainability Models,** and     
+    - **Renewable Mindsets.**    
         
 ### Elements: 
 ---    
@@ -268,17 +270,18 @@ Greed | Non-compliant Market | All Ancillary Services
 
 1. Open source, open border, open for all as an always accessible, fully transparent repository on the github.com platform.
 
-1.  All-inlcusive. Expect and respect diversity. A [True Meritocracy](https://www.theatlantic.com/business/archive/2011/11/is-true-meritocracy-impossible/248264/ "Some say a true meritocracy isn't a viable thing, well it's what we're after and we aim to prove it by Chasing the Dream")
+2.  All-inlcusive. Expect and respect diversity. A [True Meritocracy](https://www.theatlantic.com/business/archive/2011/11/is-true-meritocracy-impossible/248264/ "Some say a true meritocracy isn't a viable thing, well it's what we're after and we aim to prove it by Chasing the Dream")
 
-1. Establish  and implement simple yet actionable measurables fueling data-driven Solutions.
+3. Establish  and implement simple yet actionable measurables fueling data-driven Solutions.
 
-1. Launch from **Google Cloud Platform**; full leverage of the platform and resources as to **progressively deliver current and emerging technologies,** utilizing all that is 
+4. Launch from **Google Cloud Platform**; full leverage of the platform and resources as to **progressively deliver current and emerging technologies,** utilizing all that is 
     - **Machine Learning,** 
     - **Artificial Intelligence,** 
     - **Kubernetes,** and 
     - **Natural Language Processing.**
     
 ### LEAN MANAGEMENT PRINCIPLES
+---
 
 > _Chasing the Wind, llc_ has chosen to allocate __all benefits from the Google Cloud for Startups program & SUS__ recently awarded to be fully utilized in their entirety on the __preamble-project__, as a means to kickstart the launch, further extending and facilitating _lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce_.
 
@@ -288,10 +291,8 @@ Greed | Non-compliant Market | All Ancillary Services
 
 [The Last Mile Project](https://thelastmile.org/), a **framework and blueprint worthy of emulation**, *prepares incarcerated individuals for successful reentry through business and technology training.*
 
-The Last Mile Project's Tagline:
-
+The Last Mile Project's Tagline
 > ***Changing Lives Through Tech***
----
 
 The Last Mile's ***Four-pillars of Success***
 
@@ -301,7 +302,7 @@ Simple | Attainable | Lean | Unquestionable Measurables
 **Served 460 students since '10** | **12 locations Ca, In, Ks, Ok** | **0% recidivism rate** | **National Avg. 55%**
 
 
-### Chasing the Wind's *Preliminary* **Ancillary Model**
+### Chasing the Wind's *Preliminary* Ancillary Model
 ---
 
 Diagnostic | Therapeutic | Custodial 
@@ -310,7 +311,7 @@ Prospecting eager candidates | **Training and mentoring** *(possibly aiding with
 🩺 **Forging Partnerships** with **IT Juggernauts** and **Cannabis / Hemp-related Companies / Associations | **Offering Best-in-7 Class Pay** | 🔬 A **Feasible Common-Good Moonshot**
   
 
-## The [People Problems](https://https://www.psychologytoday.com/us/blog/toward-less-egoic-world/201706/most-problems-are-people-problems)
+## The [People Problems](https://https://www.psychologytoday.com/us/blog/toward-less-egoic-world/201706/most-problems-are-people-problems "Toward a less egoic world.")
 ---
 
 ### IT and the [Digital Skills Gap](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/Skill%20shift%20Automation%20and%20the%20future%20of%20the%20workforce/MGI-Skill-Shift-Automation-and-future-of-the-workforce-May-2018.ashx)
@@ -332,6 +333,7 @@ MORE!
 ### Recidivism / Reentry
 ---
 
+> 
 > Recidivism rates are at their worst levels on Earth due to drug wars beginning to end, legislation finally recognizing the gross over-incarceration that's been in place for nearly 40 years. 
 
 - The causes cited for relapse into criminal behavior include
@@ -376,8 +378,8 @@ MORE!
                       - War on Drugs.
                       - Stigma.
   
-> Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease.
----
+Preamble-Project is an impossible to refute evidence-based strategy establishing an absolute need for fighting the stigma disease.
+
 
 - __FINALLY__, by bringing these **people problems** together, the **underlying issues
     - *lack of Opportunity, and 
@@ -392,15 +394,14 @@ MORE!
 
 These events will help create a long-lasting domino effect; tilting the tides to the favor of the people . While further weakening, and helping to fuel the fire that is ***going to bring America to Drug War Ends.***
 
-> __Just as prohibition finds its end.__
+Just as prohibition finds its end.
 
-```
-Allowing We the People to continue demanding actual, actionable, alternative answers.
-```
+> Allowing We the People to continue demanding actual, actionable, alternative answers.
 
-> **Please Keep in Mind This is a Real-time build. More in-depth actionable facts are coming. 
+
+> Please Keep in Mind This is a Real-time build. More in-depth actionable facts are coming. 
 >
-> *We had to develop a site and model for SXSW evaluators and are in process of circling back to fully develop the concept **they viewed the page on Tuesday 25 November, Twenty 19, then again x 4 on 7 Dec, Twenty 19 according to GitHub's Insightful Analytics**
+> We had to develop a site and model for SXSW evaluators and are in process of circling back to fully develop the concept they viewed the page on Tuesday 25 November, Twenty 19, then again x 4 on 7 Dec, Twenty 19 according to GitHub's Insightful Analytics.
 
 
 ## Market Research
@@ -414,7 +415,7 @@ and high concentration certificates of analysis.
 
 In addition, we spoke with companies in various stages of their **life cycle**, *some only a months old while others being first to market.*
 
-- The following are reports from each company summarizing the **key points that aligned with our objective:**
+The following are reports from each company summarizing the **key points that aligned with our objective:**
 
 ```
 TBD
@@ -477,9 +478,9 @@ BELOW IS RUNNING LOG, MIGRATION TO GHOST CMS SOON.
 4. SXSW 2020 Pitch Eval squad takes a 2nd look, with 3 more sets of fresh eyes joing in the judging. (FAITH).
 
 
----
-### Intellectual Property of Chasing the Wind, LLC 
 
+### Intellectual Property of Chasing the Wind, LLC 
+---
 
  ChasingtheWindllc.com | emoji-brand name: 💨🏃🌪 | "to bring logic to stigma; sh—IT–'stics"
 ---|---|---
@@ -508,6 +509,6 @@ Chasing the Wind, llc | 💨🏃🏽‍🌪
 
 ---
 
- <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise notated, The Chasing the Wind, LLC operates under an open startup, open culture methodology and works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6537-7683" href="https://orcid.org/0000-0001-6537-7683" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6537-7683</a></div>
+ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise notated, The Chasing the Wind, LLC operates under an open startup, open culture methodology and works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | <a itemprop="sameAs" content="https://orcid.org/0000-0001-6537-7683" href="https://orcid.org/0000-0001-6537-7683"<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6537-7683</a></div>
  ---|---
  <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> Align with us from the Hollywood of the South, Covington, Georgia | [Chasing the Pins](https://wwww.pinterest.com/chasing-the-wind-llc/)
