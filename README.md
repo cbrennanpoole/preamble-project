@@ -17,7 +17,6 @@
 ---
 > The precursor to a feasible dream.
 
-
 ![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
        Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱 🌬_ 🚛💵💨_ 🏃 _ 🌪 🚜 _ ⛈_ 🌞 _ 🌱 
        
@@ -477,7 +476,15 @@ BELOW IS RUNNING LOG, MIGRATION TO GHOST CMS SOON.
 3. Dribbble extends an invite. (From Chief of Dribbble Zack Onisko renowned growth-hacker).  
 4. SXSW 2020 Pitch Eval squad takes a 2nd look, with 3 more sets of fresh eyes joing in the judging. (FAITH).
 
+#### 25 Dec, 2019
+1. CB Rank 2,218 MADE GOAL
+2. Chasing the Wind | Linkedin has seen 4,000% Growth
+3. Work continues (Holidays hampered also had been out-of-pocket past two weeks working with a Home Builder and discussing an actionable path for potential employees starting first day out. 
 
+#### 4 Jan, 2020
+1. CB Rank as high as 1,818 (no more self-promo).
+2. FAILED to make SXSW 2020 Pitch
+3. Project is not over, but is being shelved to attain gainful employment for indeterminable amount of time. 
 
 ### Intellectual Property of Chasing the Wind, LLC 
 ---
