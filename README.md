@@ -315,19 +315,20 @@ Prospecting eager candidates | **Training and mentoring** *(possibly aiding with
 
 ### IT and the [Digital Skills Gap](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/Skill%20shift%20Automation%20and%20the%20future%20of%20the%20workforce/MGI-Skill-Shift-Automation-and-future-of-the-workforce-May-2018.ashx)
 ---
-
-***Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.***
+    
+    Cloud Services, IT, and Machine Learning  are developing at break-neck speeds while driving faster growth and efficiency for businesses and society, but there is a lack of digital skills in the workforce.
 
 
 #### CITE SEEING
 ---
-> *Competition for high-skill workers will increase, while displacement will be concentrated mainly on low-skill workers, continuing a
-> trend that has exacerbated income inequality and reduced middle-wage jobs.* [Mckinsey.com quoting from matrials by the World Economic Forum](https://www.mckinsey.com/industries/public-sector/our-insights/inequality-a-persisting-challenge-and-its-implications)
+    Competition for high-skill workers will increase, while displacement will be concentrated mainly on low-skill workers, continuing a
+trend that has exacerbated income inequality and reduced middle-wage jobs. [Mckinsey.com quoting from matrials by the World Economic Forum](https://www.mckinsey.com/industries/public-sector/our-insights/inequality-a-persisting-challenge-and-its-implications)
 ---
+    
+    The US needs more workers and needs to do a better job of educating, preparing, and retraining the potential workers it already has to ensure that all Americans are positioned to prosper in the face of future economic competition. Critically, workforce advantages the  US once enjoyed can only be rebuilt by better accessing the full diversity of our available talent— including from groups whose       > potential contributions the US has failed to fully support and cultivate in the past. [Growing the American Work Force from the Committee for Economic Development](https://www.ced.org/reports/growing-the-american-workforce)    
+---    
 
-> The US needs more workers and needs to do a better job of educating, preparing, and retraining the potential workers it already has to > ensure that all Americans are positioned to prosper in the face of future economic competition. Critically, workforce advantages the  > US once enjoyed can only be rebuilt by better accessing the full diversity of our available talent— including from groups whose       > potential contributions the US has failed to fully support and cultivate in the past. [Growing the American Work Force from the Committee for Economic Development](https://www.ced.org/reports/growing-the-american-workforce)
----
-MORE!
+
 
 ### Recidivism / Reentry
 ---
