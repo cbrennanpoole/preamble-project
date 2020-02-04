@@ -17,13 +17,14 @@
 ---
 > The precursor to a feasible dream.
 
-![2028](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
-       Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑|🥜|🌱 🌬_ 🚛💵💨_ 🏃 _ 🌪 🚜 _ ⛈_ 🌞 _ 🌱 
+![2020](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
+       Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑-🥜-🌱 | 🌬_ 🚛💵💨_ 🏃 _ 🌪
        
 Year One Milestones  
 ---
-> Things only got interesting 350 days in!
 
+Things only got interesting 350 days in!    
+   
 [Y Combinator SUS 2019](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Sep 21 '19-Present](http://bit.ly/CBP-Record-of-Success/ "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
 [CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 2500 Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867; 11 Dec 3,479 for Founder and 47,933 for CTW; 25 Dec, 2019 CB Rank 2331 Goal Made; FAITH.")
@@ -32,7 +33,7 @@ Year One Milestones
 
 ---
 
-> **Founded November 15, 2018** 
+**Founded November 15, 2018** 
 
 Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). Formation as a legal entity was made prematurely (long before having a clue exactly what CTW was going to be, much less offer as a service or product) with profits from an ethical *phytocannabinoid rich, whole plant hemp* manufacturer and *cannabidiol company*, as a means to **motivate** and help keep an **eye on the prize.** 
 
@@ -50,7 +51,7 @@ Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://f
 ## MISSION
 ---
 
-Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering, the **push for renewable resources** and **reusable energies** while **fully-utilizing funding opportunities the US government has earmarked** for the *opioid / substance use crisis, rural prosperity initiatives, sustainable models, and bridging of skills gaps*; by **identifying or creating open source solutions** as an *open startup* with intentions of **full utilization of LMS, common good works**, and *creative commons copyright; some rights reserved.*
+Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering; **push for renewable resources**, **reusable energies**, and **full utilization of emerging open source Learning Management Systems (LMS), to deliver innovation, education, and digital solutions; a for profit common good works**; creative commons copyrights; some [rights reserved(https://creativecommons.org/by/licenses/CCBY)]
 
 ***All to help bridge the digital skills and the widening wealth gaps.***
 
