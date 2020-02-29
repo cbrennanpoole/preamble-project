@@ -1,21 +1,20 @@
 # Chasing the Wind
 ---
 
+NOTE
+The preamble project was thrown together in two weeks time in order to give the judges at South by Southwest a website to land on. This is due to their extending an unsolicited invite to (apply to) pitch for the SXSW 2020 Pitch competition with less than 48 hours notice. However, the concept, that is to the body of work - it is a thirty-six year culmination of - sometimes object - others self-admittedly self-absorved, and subjective taking; in the end however, this is the Preamble-Project to a lifetime of white privilege - flip turned upside down - to come to learn first hand and forevermore the true meaning what is otherwise known as the minority story. 
+
+Works were ceased in order to find gainful and sustainable employ around the 2nd week of January.Although, a career has not been retaken; nor even the possibility of medical insurance, a weekly pay period, or the hope for healthcare. However, means are being handled as they always seem to have been in the first place - while the work outside this here text editor has not and will never cease. At least not until we all can confidently claim that Once Great Nation is once again the United States of America we were taught to defend while honor with our lives if necessary. Thanks for having a looksea at Chasing the Wind, LLC little self-realized corner of GitHub owned, Jekyll Pages grown, digital real estate and Creative Commons Attribution Share-alike International 4.0 Fair Cultural Works licenseing. Some rights reserved. Now onto all that is this Preamble to what certainly is and will someday become a feasible dream. 
 ```
 "to bring logiC–to–Stigma; sH—IT–'stics"
 ```
-
-## Current Project(s) 
----
-
-### Preamble-Project
+## Preamble-Project
 ---
 
 > We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or American incarceration.
 
 ## Welcome to Preamble-Project. 
 ---
-> The precursor to a feasible dream.
 
 ![2020](https://user-images.githubusercontent.com/50818414/69528870-12bcb480-0f3d-11ea-8222-d35717ff2e66.jpg "Designed by vectorpouch / Freepik. Please note: This is a real-time build. Errors exist. Please feel free to assist in correcting. By all means, if anything on here can be disproven, you are invited to engage in a mature and objective discussion.")
        Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑-🥜-🌱 | 🌬_ 🚛💵💨_ 🏃 _ 🌪
@@ -39,21 +38,21 @@ Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://f
 
 > Stocks were purchased in the .30 cent range and sold above in mid $5's about 10 and a half months later.     
 >
-> CVSI had a great idea in attempting to *attack smokeless tobacco (snuff / chew / dip / spit / hawg)* and having a **former MLB athlete** up in the C-Suite. 
+> CVSI had a great idea in attempting to *attack smokeless tobacco (snuff / chew / dip / spit) and having a **former MLB athlete** up in the C-Suite. 
 >
 > **Real-life. Real People Problems. Really big ideas. And feasible dreams.**    
 
 - Three weeks after purchasing the stock, life as I once knew it, would change.     
     - Forevever.    
           - Ultimately, for the better.     
-              - Leading to everything that is **Chasing the Wind, llc.**
+       
 
 ## MISSION
 ---
 
-Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering; **push for renewable resources**, **reusable energies**, and **full utilization of emerging open source Learning Management Systems (LMS), to deliver innovation, education, and digital solutions; a for profit common good works**; creative commons copyrights; some [rights reserved(https://creativecommons.org/by/licenses/CCBY)]
+Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering; **push for renewable resources**, **reusable energies**, and **full utilization of emerging open source Learning Management Systems (LMS), to deliver innovation, education, and digital solutions; a for profit common good works**; [Creative Commons Attribution Share-alike](https://creativecommons.org/by/licenses/by/sa/4.0/) International 4.0 license. Fair Cultural Works. 
 
-***All to help bridge the digital skills and the widening wealth gaps.***
+***All to help bridge the digital skill and widening wealth gaps in order to create opportunity and reimagine the current cannabis conundrum.***
 
 > 75 million jobs are expected to be displaced by 2022 in 20 major economies. At the same time, technological advances and new ways of working could also create 133 million new roles, driven by large-scale growth in new products and services that would allow people to work with machines and algorithms to meet the demands of demographic shifts and economic changes.
 >
