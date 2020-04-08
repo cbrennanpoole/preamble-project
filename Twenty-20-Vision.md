@@ -1,6 +1,10 @@
-# Chasing the Wind, llc 
+# TWENTY-20-VISION
 ---
-> Professional Pivot. Plus Profitable Partnerships.
+> FIVE DOMAINS - YET NO HOME - COLLEGE DEGREE - YET NO SEMBLANCE OF EMPLOYMENT. AT THE PRECIPICE OF - BAM! 
+
+##COVID-19 
+---
+Coronavirus has forced our hand; as we now take shape and simply - are THE WIND LLC. (enjoy the nostalgia - we now have epidemic and pandemic to - wholly defeat).
 
 ## MISSION: 
 ---
