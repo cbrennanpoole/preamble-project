@@ -1,3 +1,5 @@
+
+
 # Chasing the Wind
 ---
 
@@ -532,6 +534,6 @@ Chasing the Wind, llc | 💨🏃🏽‍🌪
 
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise notated, The Chasing the Wind, LLC operates under an open startup, open culture methodology and works are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | <a itemprop="sameAs" content="https://orcid.org/0000-0001-6537-7683" href="https://orcid.org/0000-0001-6537-7683"<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6537-7683</a></div>
  ---|---
- <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> Align with us from the Hollywood of the South, Covington, Georgia | [Chasing the Pins](https://wwww.pinterest.com/chasing-the-wind-llc/)
+ <a href="https://www.alignable.com"><img title="Recommended by Locals On Alignable" src="https://www.alignable.com/assets/badge/alignable-c2.png" /></a> Align with us from the Hollywood of the South, Covington, Georgia | [PINTEREST | THE WIND LLC](https://wwww.pinterest.com/THEWINDLLC/)
  ---|---  
  <a href="http://www.embeddedmetadata.org/goto?supportsemm" title="We support the Embedded Metadata Manifesto"><img src="http://www.embeddedmetadata.org/images/emm-button-small.jpg" alt="We support the Embedded Metadata Manifesto" border="0" /></a> | #CHASINGtheWIND #Twenty20Times
