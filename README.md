@@ -272,7 +272,7 @@ Our cornerstones (x4) are Total Customer Satisfaction thru quality management pr
                 2. Canna-business Logistics (*Supply-Chain Management, Our specialized interest)                
                         
                         
-> Already gaining interest with a single post for a singular RV Rental having rented it 4 times (with no ad spend or marketing); utilizing the [Outdoorsy](https://outdoorsy.com/ network and app to solicit while on cruise-control.
+> Already gaining interest with a single post for a singular RV Rental having rented it 4 times (with no ad spend or marketing); utilizing the [Outdoorsy](https://outdoorsy.com/) network and app to solicit while on cruise-control.
   - **Georgia Grown Agribusiness Tourism.**
 
 ![Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")    
