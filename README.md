@@ -18,50 +18,51 @@ x.________
 [with Wind LLC](https://www.crunchbase.com/organization/chasing-the-wind-llc)
 
 
-##TABLE OF CONTENTS
-`premble-project`
+# TABLE OF CONTENTS
+`premble-project`<br>
 
-i. [Preamble-Project](https://github.com/OUDcollective/preamble-project/#preamble-project)
-ii. [Year One Milestones](https://github.com/OUDcollective/preamble-project#year-one-milestones)
+---
+
+1. [Preamble-Project](https://github.com/OUDcollective/preamble-project/#preamble-project)
+2. [Year One Milestones](https://github.com/OUDcollective/preamble-project#year-one-milestones)
     - [First 50 Weeks](https://github.com/OUDcollective/preamble-project#first-50-weeks)
     - [Week 51-Present](https://github.com/OUDcollective/preamble-project#week-51-present)
-iii. [Mission](https://github.com/OUDcollective/preamble-project#mission)
-iv. [Vision](https://github.com/OUDcollective/preamble-project#vision)
-v. [Long Goals](https://github.com/OUDcollective/preamble-project#long-goals)
-vi. [End Game](https://github.com/OUDcollective/preamble-project/#end-game)
-vii. [Model](https://github.com/OUDcollective/preamble-project#model)
+3. [Mission](https://github.com/OUDcollective/preamble-project#mission)
+4. [Vision](https://github.com/OUDcollective/preamble-project#vision)
+5. [Long Goals](https://github.com/OUDcollective/preamble-project#long-goals)
+6. [End Game](https://github.com/OUDcollective/preamble-project/#end-game)
+7. [Model](https://github.com/OUDcollective/preamble-project#model)
     - [Cornerstones](https://github.com/OUDcollective/preamble-project#cornerstone)
     - [Objectives](https://github.com/OUDcollective/preamble-project#objectives)
     - [Qualitative Goals](https://github.com/OUDcollective/preamble-project#qualitative-goals)
     - [Quantitative Goals](https://github.com/OUDcollective/preamble-project#quantitative-goals)
-viii. [Elements](https://github.com/OUDcollective/preamble-project#elements)
-xi. [Non - Negotiables](https://github.com/OUDcollective/preamble-project#non-negotiables)
+8. [Elements](https://github.com/OUDcollective/preamble-project#elements)
+9. [Non - Negotiables](https://github.com/OUDcollective/preamble-project#non-negotiables)
     - [Lean Management Principles](https://github.com/OUDcollective/preamble-project#lean-management-principles)
     - [Ancillary Model](https://github.com/OUDcollective/preamble-project#chasing-the-winds-preliminary-ancillary-model)
-X. [The People Problems](https://github.com/OUDcollective/preamble-project#the-people-problems)
+10. [The People Problems](https://github.com/OUDcollective/preamble-project#the-people-problems)
     - [IT](https://github.com/OUDcollective/preamble-project#it-and-the-digital-skills-gap)
-  xa. [Cite - Seeing](https://github.com/OUDcollective/preamble-project#cite-seeing)
+11. [Cite - Seeing](https://github.com/OUDcollective/preamble-project#cite-seeing)
     - [Recidivsim | Reentry](https://github.com/OUDcollective/preamble-project#recidivism--reentry)
     - [SUD Opioid Crisis](https://github.com/OUDcollective/preamble-project#sud--the-opioid-epidemic)
-  xb. [Hypotheses](https://github.com/OUDcollective/preamble-project#hypothesis)
-xi. [Market Research](https://github.com/OUDcollective/preamble-project#market-research)
-
-
-xii. [RUNNING (at that ) REALTIME UPDATES](https://github.com/OUDcollective/preamble-project#16-nov-2019-latest-updates)
+12. [Hypotheses](https://github.com/OUDcollective/preamble-project#hypothesis)
+13. [Market Research](https://github.com/OUDcollective/preamble-project#market-research)
+14. [RUNNING (at that ) REALTIME UPDATES](https://github.com/OUDcollective/preamble-project#16-nov-2019-latest-updates)
     - [24 Nov, 2019](https://github.com/OUDcollective/preamble-project#16-nov-2019-latest-updates)
     - [9 Dec, 2019](https://github.com/OUDcollective/preamble-project#9-dec-latest-updates)
     - [25 Dec, 2019](https://github.com/OUDcollective/preamble-project#25-dec-2019)
     - [4 Jan, 2020](https://github.com/OUDcollective/preamble-project#4-jan-2020 "Works were ceased in order to find gainful and sustainable employ around the 2nd week of January. Although, a career has not been retaken - or the hope of medical insurance - a weekly pay period. I sustain though. As the whole earth has now been shifted into doing. So - this story - it is nothin. It's dust.")
-xii. [Intellectual Property](https://github.com/OUDcollective/preamble-project#intellectual-property-of-chasing-the-wind-llc)
-xiii. [GodSpeed New Friends!](https://github.com/OUDcollective/preamble-project#god-speed-good-friends)
+15. [Intellectual Property](https://github.com/OUDcollective/preamble-project#intellectual-property-of-chasing-the-wind-llc)
+16. [GodSpeed New Friends!](https://github.com/OUDcollective/preamble-project#god-speed-good-friends)
+<br>
+Best, <br>
 
-Best, 
+[C](https://github.com/OUDcollective/preamble-project#c-brennan-pooleprincipal-chief-operating-officerchasing-the-wind-llc--)<br>
+[with Wind](https://www.google.com/search?q=c+brennan+poole+wind)
 
-[C](https://github.com/OUDcollective/preamble-project#c-brennan-pooleprincipal-chief-operating-officerchasing-the-wind-llc--)
-`to bring logiC–to–Stigma; sH—IT–'stics`
 
 ## Preamble-Project
----
+`to bring logiC–to–Stigma; sH—IT–'stics`<br>
 
 > We the people believe that opportunity, inclusion, and hope for the future, establish a more perfect union; not legislation, medication or North American incarceration.
 
@@ -69,18 +70,15 @@ Best,
        Designed by [vectorpouch / Freepik](http://www.freepik.com)  | 🍑-🥜-🌱 | 🌬_ 🚛💵💨_ 🏃 _ 🌪
        
 ### Year One Milestones  
----
 
 Oh and Thanks! For having a look see at Chasing the Wind, LLC Preamble-Project. It's a tiny peace of self-realized digital real estate. In a corner of the vast expanse that is the GitHub domain. Jekyll Pages architectured. With a [Creative Commons Attribution Share-alike (CC BY-SA) International 4.0 Fair Cultural Works](https://www.creativecommons.org/licenses/by-sa/4.0 "anyone else find it odd that the one thing we are taught to plagiarize is the licensing that prevents plagiarism?") licensing. Some rights reserved. Now onto all that is this Preamble to what certainly is and will someday become a feasible dream. 
 
 #### First 50 Weeks
----
 
-> The first 50 weeks can be summed up in four words. Fail Huge. Continuous Improvement. 
+> The first 50 weeks can be summed up in four words. Fail Huge. **Continuous Improvement**.
 
 
 #### Week 51-Present
----
 
 > Things got worthy of sharing around the 50th week into premature business incorporations. After using the world's most widely trafficked Venture Capital API to put everything that is Chasing the Wind - and my idea of a proper business model - to the ultimate test. My goal immediately after publishing - was simple. Make the Top 100,000 for organization CB Rank. Then consider seeking funding. That was about 250,000 spots higher than when I was initially ranked. And I'd crush my personal goal in less than two days. 
 > In retrospect - rather than winging it - and playing the game that is the world wide web - I should have dialed back - and laid out a framework for all the attention I continue to receive. 
@@ -89,7 +87,7 @@ Oh and Thanks! For having a look see at Chasing the Wind, LLC Preamble-Project. 
 ---|---
 [CrunchBase Top 50k Organizations](https://www.crunchbase.com/organization/chasing-the-wind-llc "CTW Organizational Profile created on 31 Oct, 2019 as of 5 December, 2019 we've entered the Top 50K List at 48,927 highest thus far on crunchbase.com; a 55 million user, billion plus API call platform that is considered the Linkedin® for companies and has raised well over 40+ million in funding as a now seperate entity of its one time parent company Tech Crunch. Original Founder Michael Arrington") | [Crunchbase Top 2500 Founders](https://www.crunchbase.com/person/c-brennan-poole#section-overview "As of 16 Nov, 2019 CB Rank was 10,305 up over 360,000 positions since profile creation on 9 Nov '2019 seven days earlier; as of 25 Nov, 2019 we attained as high 4,197; stigma or stereotypes then found there way into the crunchbase algorithm, sending us all the wa back to the 520,000's; in 8 days time, we managed to once again climb just hundreds of spots from the Top 5,000; current rank as of 6 Dec, 2019 0328 EST is 6,914; 9 Dec 2019 we have passed names like Howard Stern and William Wrigley, Zack Onisko, and sit comfortably at 3,867; 11 Dec 3,479 for Founder and 47,933 for CTW; 25 Dec, 2019 CB Rank 2331 Goal Made; FAITH.")
 [South By Southwest 2020 SXSW2020 Pitch Invite](https://bit.ly/BrennanCerts "Received Unsolicited Invitation to Pitch by ExecutiveProducer on 15 Nov, 2019 2 days prior to registration cutoff; as a lean model, we were doubtful we would be able to source the registration fee in time to capitalize off this amazing opportunity and told them this. Their response. Waive the fee. Not once, but twice.") | [Red Herring Top 100 Tech Startup Invite](https://www.redherring.com/events/top-100/ "Due Diligence still needs to be done on this one as we are unsure if our core values aligns with this opportunity at the moment")
-[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | [Dribbble Chief Zack Onisko extends Player invite](https://dribbble.com/Brennan-Poole "This is big on many levels and not because I am a designer or plan to become one, rather because it requires our creatives, artists, and authors to have any hope of success with scaling and disseminating the message; plus it's our creatives, authors, and authors who happen to be most affected by the problems we aim to resolve; On 6 May, 2019 Chasing the Wind, llc began a targeted attack hack on Dribbble, only to forego it, knowing we had no real leverage or added value to bring to the table and as of 9 December Twenty 19 it seems full circles have come to fruition and that value add has become a potential asset to the platform we absolutely need") | [Google touches down])"
+[Leafedin on Linkedin](https://linkedin.com/in/oudcollective/ "Account created 10 May, 2019 on my 36th birthday, and ironically enough, that same day Georgia's Governor Brian Kemp would approve legislation making it legal to sell low THC medicinial marijuana and whole plant hemp phytocannabinoid rich alternative medicines.") | [Dribbble Chief Zack Onisko extends Player invite](https://dribbble.com/Brennan-Poole "This is big on many levels and not because I am a designer or plan to become one, rather because it requires our creatives, artists, and authors to have any hope of success with scaling and disseminating the message; plus it's our creatives, authors, and authors who happen to be most affected by the problems we aim to resolve; On 6 May, 2019 Chasing the Wind, llc began a targeted attack hack on Dribbble, only to forego it, knowing we had no real leverage or added value to bring to the table and as of 9 December Twenty 19 it seems full circles have come to fruition and that value add has become a potential asset to the platform we absolutely need") | [Google touches down](https://"
 
 ---
 
