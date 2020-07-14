@@ -1,19 +1,64 @@
 
 
 # Chasing the Wind
----
+`preamble-project` `new venture beginnings`<br>
 
-NOTE
-The preamble project was thrown together in two weeks time in order to give the judges at South by Southwest a website to land on. This is due to their extending an unsolicited invite to (apply to) pitch for the SXSW 2020 Pitch competition with less than 48 hours notice. However, the concept, that is - to the body of work - it is a thirty-six year culmination of - sometimes objective - others self-admittedly self-absorbed - subjective perspective-taking. In the end, however, this is the Preamble-Project to a lifetime of white privilege - flip turned upside down. Coming to learn real-life from first-person perspective the minority story. 
+The  white privilege to disadvantaged minority seven year sojourn led to an epiphany, small business ownership, and wholly ethical, effectively disruptive digital self that is the co-author to the preamble-project. 
 
-It is my personal white privilege to disadvantaged minority story.
 
-Works were ceased in order to find gainful and sustainable employ around the 2nd week of January. Although, a career has not been retaken - or the hope of medical insurance - a weekly pay period. I sustain though. As the whole earth has now been shifted into doing. So - this story - it is nothin. It's dust. 
+## Preface
 
-Thanks for having a look see at Chasing the Wind, LLC Preamble-Project. It's a tiny peace of self-realized digital real estate. In a corner of the vast expanse that is the GitHub domain. Jekyll Pages architectured. With a [Creative Commons Attribution Share-alike (CC BY-SA) International 4.0 Fair Cultural Works](https://www.creativecommons.org/licenses/by-sa/4.0 "anyone else find it odd that the one thing we are taught to plagiarize is the licensing that prevents plagiarism?") licensing. Some rights reserved. Now onto all that is this Preamble to what certainly is and will someday become a feasible dream. 
-```
-"to bring logiC–to–Stigma; sH—IT–'stics"
-```
+
+**I, C Brennan Poole, Principal Chief & Creative Strategist** as of 14 July, 2020 *still sit here emphatically and unequivocally convinced that if somehow, someway, someone would take to funding this venture, recidivism, revolving doors, and substance misuse would finally take a turn into a manageable, attainable, digression in turn effectiveley signaling an end to the corporatocracy and outright hypocritical politicking that has been fueling whole earth with its back-room dealings, and commercial interest constituents lies. For far too long. And whether willful ignorance is the underlying complicitness, or outright caught with hand in US cookie jar; full of unsuspecting homo sapiens. That complicitness is no longer an option. It can no longer be tolerated, and must be forever eradicated. Starting at the head of the snake; while using the dirty money hoarded by corporate interest, pyramid schemes, big techs egregious and downright unethical data thievery. Thieving to leverage and subliminally affect billions of mindless feeders. As well as the legacy of multi-generational juris—  where's prudence? Temperance? How about Vengeance? Oh yes. It's time to act. Pandemic was the flare this preamble was attempting to speak to. Self - admit, failure was expected however.  This is but a glimpse into a single man's web of truths. It's dysfunctional. As am I. Unorthodox. In every sense of the word. The o.u.d. collective is but solo collective. DUNS calls for 7 of me. It's mental health and manic-persuaded. Own it. I do. But a caste out, thown out, forgotten completely about detective of conscience. Hacking with unfettered truth causation. a personal mental health master peace.*
+
+
+Best, <br>
+
+x.________
+[with Wind LLC](https://www.crunchbase.com/organization/chasing-the-wind-llc)
+
+
+##TABLE OF CONTENTS
+`premble-project`
+
+i. [Preamble-Project](https://github.com/OUDcollective/preamble-project/#preamble-project)
+ii. [Year One Milestones](https://github.com/OUDcollective/preamble-project#year-one-milestones)
+    - [First 50 Weeks](https://github.com/OUDcollective/preamble-project#first-50-weeks)
+    - [Week 51-Present](https://github.com/OUDcollective/preamble-project#week-51-present)
+iii. [Mission](https://github.com/OUDcollective/preamble-project#mission)
+iv. [Vision](https://github.com/OUDcollective/preamble-project#vision)
+v. [Long Goals](https://github.com/OUDcollective/preamble-project#long-goals)
+vi. [End Game](https://github.com/OUDcollective/preamble-project/#end-game)
+vii. [Model](https://github.com/OUDcollective/preamble-project#model)
+    - [Cornerstones](https://github.com/OUDcollective/preamble-project#cornerstone)
+    - [Objectives](https://github.com/OUDcollective/preamble-project#objectives)
+    - [Qualitative Goals](https://github.com/OUDcollective/preamble-project#qualitative-goals)
+    - [Quantitative Goals](https://github.com/OUDcollective/preamble-project#quantitative-goals)
+viii. [Elements](https://github.com/OUDcollective/preamble-project#elements)
+xi. [Non - Negotiables](https://github.com/OUDcollective/preamble-project#non-negotiables)
+    - [Lean Management Principles](https://github.com/OUDcollective/preamble-project#lean-management-principles)
+    - [Ancillary Model](https://github.com/OUDcollective/preamble-project#chasing-the-winds-preliminary-ancillary-model)
+X. [The People Problems](https://github.com/OUDcollective/preamble-project#the-people-problems)
+    - [IT](https://github.com/OUDcollective/preamble-project#it-and-the-digital-skills-gap)
+  xa. [Cite - Seeing](https://github.com/OUDcollective/preamble-project#cite-seeing)
+    - [Recidivsim | Reentry](https://github.com/OUDcollective/preamble-project#recidivism--reentry)
+    - [SUD Opioid Crisis](https://github.com/OUDcollective/preamble-project#sud--the-opioid-epidemic)
+  xb. [Hypotheses](https://github.com/OUDcollective/preamble-project#hypothesis)
+xi. [Market Research](https://github.com/OUDcollective/preamble-project#market-research)
+
+
+xii. [RUNNING (at that ) REALTIME UPDATES](https://github.com/OUDcollective/preamble-project#16-nov-2019-latest-updates)
+    - [24 Nov, 2019](https://github.com/OUDcollective/preamble-project#16-nov-2019-latest-updates)
+    - [9 Dec, 2019](https://github.com/OUDcollective/preamble-project#9-dec-latest-updates)
+    - [25 Dec, 2019](https://github.com/OUDcollective/preamble-project#25-dec-2019)
+    - [4 Jan, 2020](https://github.com/OUDcollective/preamble-project#4-jan-2020 "Works were ceased in order to find gainful and sustainable employ around the 2nd week of January. Although, a career has not been retaken - or the hope of medical insurance - a weekly pay period. I sustain though. As the whole earth has now been shifted into doing. So - this story - it is nothin. It's dust.")
+xii. [Intellectual Property](https://github.com/OUDcollective/preamble-project#intellectual-property-of-chasing-the-wind-llc)
+xiii. [GodSpeed New Friends!](https://github.com/OUDcollective/preamble-project#god-speed-good-friends)
+
+Best, 
+
+[C](https://github.com/OUDcollective/preamble-project#c-brennan-pooleprincipal-chief-operating-officerchasing-the-wind-llc--)
+`to bring logiC–to–Stigma; sH—IT–'stics`
 
 ## Preamble-Project
 ---
@@ -26,18 +71,19 @@ Thanks for having a look see at Chasing the Wind, LLC Preamble-Project. It's a t
 ### Year One Milestones  
 ---
 
+Oh and Thanks! For having a look see at Chasing the Wind, LLC Preamble-Project. It's a tiny peace of self-realized digital real estate. In a corner of the vast expanse that is the GitHub domain. Jekyll Pages architectured. With a [Creative Commons Attribution Share-alike (CC BY-SA) International 4.0 Fair Cultural Works](https://www.creativecommons.org/licenses/by-sa/4.0 "anyone else find it odd that the one thing we are taught to plagiarize is the licensing that prevents plagiarism?") licensing. Some rights reserved. Now onto all that is this Preamble to what certainly is and will someday become a feasible dream. 
+
 #### First 50 Weeks
 ---
 
-The first 50 weeks can be summed up in four words. Fail Huge. Continuous Improvement. 
+> The first 50 weeks can be summed up in four words. Fail Huge. Continuous Improvement. 
 
 
 #### Week 51-Present
 ---
 
-Things got worthy of sharing around the 50th week into premature business incorporations. After using the world's most widely trafficked Venture Capital API to put everything that is Chasing the Wind - and my idea of a proper business model - to the ultimate test. My goal immediately after publishing - was simple. Make the Top 100,000 for organization CB Rank. Then consider seeking funding. That was about 250,000 spots higher than when I was initially ranked. And I'd crush my personal goal in less than two days. 
-
-In retrospect - rather than winging it - and playing the game that is the world wide web - I should have dialed back - and laid out a framework for all the attention I continue to receive. 
+> Things got worthy of sharing around the 50th week into premature business incorporations. After using the world's most widely trafficked Venture Capital API to put everything that is Chasing the Wind - and my idea of a proper business model - to the ultimate test. My goal immediately after publishing - was simple. Make the Top 100,000 for organization CB Rank. Then consider seeking funding. That was about 250,000 spots higher than when I was initially ranked. And I'd crush my personal goal in less than two days. 
+> In retrospect - rather than winging it - and playing the game that is the world wide web - I should have dialed back - and laid out a framework for all the attention I continue to receive. 
    
 [Y Combinator SUS 2019](https://www.startupschool.org/companies/3Q6u1hJ9Vgf2KA "Unfunded. Unmonetized. With no site. We are happy to share how and look forward to further developments and growth.") | [Google Cloud for Startups Sep 21 '19-Present](http://bit.ly/CBP-Record-of-Success/ "Gain further insight with open access to the Google Drive. Again, this is a continuous improvement project; updates occur daily, oftentimes hourly, as we continuously integrate to Google Drive in preparation for the move to the Google Cloud Platform.")
 ---|---
@@ -47,7 +93,9 @@ In retrospect - rather than winging it - and playing the game that is the world 
 
 ---
 
-**Founded November 15, 2018** 
+### Founded November 15, 2018
+
+---
 
 Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://finance.yahoo.com/quote/CVSI/ "CV Sciences is currently pennies off the 52 week LOY having lost over 80% in market value from where we sold in 2018 November. CV Sciences is on a mission to improve the well‐being of people and planet. They believe that the future of hemp is unlimited. Through innovative and responsible application of science, they strive to enhance the prosperity and health of their employees, customers, and communities. they are committed to pioneering the Cannabidiol Evolution as the leading producer of quality hemp phytocannabinoid rich products. Someday I'll be able to share why this is so significant to the Chasing the Wind story."). Formation as a legal entity was made prematurely (long before having a clue exactly what CTW was going to be, much less offer as a service or product) with profits from an ethical *phytocannabinoid rich, whole plant hemp* manufacturer and *cannabidiol company*, as a means to **motivate** and help keep an **eye on the prize.** 
 
@@ -63,6 +111,7 @@ Using gains made from stock purchase into [CV Sciences (OTC: CVSI:US)](https://f
        
 
 ## MISSION
+
 ---
 
 Our mission is to ***leverage the cannabis cause*** and **everything it stands for** with the **sustainable business model** millennials' are mastering; **push for renewable resources**, **reusable energies**, and **full utilization of emerging open source Learning Management Systems (LMS), to deliver innovation, education, and digital solutions; a for profit common good works**; [Creative Commons Attribution Share-alike](https://creativecommons.org/by/licenses/by/sa/4.0/) International 4.0 license. Fair Cultural Works. 
@@ -70,10 +119,10 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 ***All to help bridge the digital skill and widening wealth gaps in order to create opportunity and reimagine the current cannabis conundrum.***
 
 > 75 million jobs are expected to be displaced by 2022 in 20 major economies. At the same time, technological advances and new ways of working could also create 133 million new roles, driven by large-scale growth in new products and services that would allow people to work with machines and algorithms to meet the demands of demographic shifts and economic changes.
->
->Source: [2018 Future of Jobs Report. World Economic Forum](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf)
+- Source: [2018 Future of Jobs Report. World Economic Forum](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf)
 
 ## VISION 
+
 ---
 
 **Deliver a truly transparent, cloud architecture**, utilizing **state-of-the-art emerging technologies** and a common good approach to partner with the private and liaison to the public sectors in order to deliver these digital solutions into North American institutions (prisons, jails, juveniles, centers, schools and shelters). 
@@ -83,104 +132,78 @@ Our mission is to ***leverage the cannabis cause*** and **everything it stands f
 > The problems, continue to be attacked separately. While the schism continues to seperate.
 
 ### LONG GOALS 
----
 
-    1. Curb the black market, 
-    2. Bridge digital skills and 
-    3. Socioeconomic Gaps.
-    4. Deliver state-of-the-art emerging technologies into our North American Institutions while 
-    5. Leveraging the herbaceous plant cannabis sativa as the **common ground point-of-topic**; to keep our ***target audience engaged***, and ***objectively informed***.
+1. Curb the black market, 
+2. Bridge digital skills and 
+3. Socioeconomic Gaps.
+4. Deliver state-of-the-art emerging technologies into our North American Institutions while 
+5. Leveraging the herbaceous plant cannabis sativa as the **common ground point-of-topic**; to keep our ***target audience engaged***, and ***objectively informed***.
         - Create first-day out opportunities for those that put in the ***self-work*** and wholly to commit to ***self-worth***. 
 
 > It’s critical that individuals take a proactive approach to their own lifelong learning. In addition, businesses and governments need to actively support workforces in learning and developing skills.
->
-Source: Klaus Schwab, [2018 Future of Jobs report](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf "Founder and Executive Chairman of the World Economic Forum")
+- Source: Klaus Schwab, [2018 Future of Jobs report](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf "Founder and Executive Chairman of the World Economic Forum")
 
 
 ### END GAME: 
----
 
-    1. Collectively co-pen Opioid Epidemic Resolution Article 05TEN!9.
-    2. Defeat of stigma.
-    3. Drug War Ends. 
-    4. Opportunity for all begins.
-    5. [The Beloved Community](https://thekingcenter.org/king-philosophy/ "As Dr. King often said, Injustice anywhere is a threat to justice everywhere; He felt that justice could not be parceled out to individuals or groups, but was the birthright of every human being in the Beloved Community”) is that much closer to actualization.
+1. Collectively co-pen Opioid Epidemic Resolution Article 05TEN!9.
+2. Defeat of stigma.
+3. Drug War Ends. 
+4. Opportunity for all begins.
+5. [The Beloved Community](https://thekingcenter.org/king-philosophy/ "As Dr. King often said, Injustice anywhere is a threat to justice everywhere; He felt that justice could not be parceled out to individuals or groups, but was the birthright of every human being in the Beloved Community”) is that much closer to actualization.
 
-Addressing the ***most egregious problems which are far too prevalent in North America Today.*** 
-
+> Addressing the most egregious problems which are far too prevalent in North America Today.
+>
 > Extreme poverty can be a cause of specific human rights violations, for instance because the poor are forced to work in environments that are unsafe and unhealthy. At the same time, poverty can also be a consequence of human rights violations, for instance when children are unable to escape poverty because the State does not provide adequate access to education.
+- Source: [Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx)
 
-Source: [Special Rapporteur on extreme poverty and human rights; Professor Philip Alston](https://www.ohchr.org/EN/Issues/Poverty/Pages/SRExtremePovertyIndex.aspx)
-
-Chasing the Wind, llc is a Georgia Grown, lean, sustainable startup. Using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our North American Institutions. 
+*Chasing the Wind, llc is a Georgia Grown, lean, sustainable startup. Using investigative journalism to drive the e-commerce monetization angle that will hold our self and canna-business accountable and LMS / emerging technologies to deliver digital solutions to our North American Institutions.*
 
 
 ### MODEL
----
 
-Ours is a multi-faceted framework and a sustainable model with ethical FDA compliant marketing practices. 
-
-Lean management principals. 
-
-And an eye on the long. 
-
-Using transformational and kaizen leadership to develop human resources for Information Technology, the cannabis, and whole plant hemp industry.
+Ours is a multi-faceted framework and a sustainable model with ethical FDA compliant marketing practices. Lean management principals. And an eye on the long. Using transformational and kaizen leadership to develop human resources for Information Technology, the cannabis, and whole plant hemp industry.
 
 
-### CORNERSTONE
----
+### CORNERSTONES
 
 Our cornerstones (x4) are Total Customer Satisfaction thru quality management principles with clearly defined goals / key performance indicators (KPI), and an eye on the long.  
 
 
 ### OBJECTIVES
----
 
 1. Improve cannabis and hemp industry image through **measurable works.**
-
-1. Implement and author an **authentic and objective content strategy** bringing **investigative journalism** to an *unregulated, and all new industry;* that's **growing like the weed that is fueling it.**
+2. Implement and author an **authentic and objective content strategy** bringing **investigative journalism** to an *unregulated, and all new industry;* that's **growing like the weed that is fueling it.**
     - COA web scrape and comprehensive analysis of the current testing methods and questionable marketing tactics used by labs/brands to confuse the dilution that currently exists. 
     - Forensic analysis of Marijuana Tax  Revenues.
     -  Starting with the State of Colorado to determine why the state with a billion in Tax revenues.
-    - The most successful cannabis program on earth still has its teachers heading up walk-outs and demanding better conditions for them and the children they teach. 
- 
- 1. A deep dive into the actual actionable works accomplished by some of the not-for-profits in industry. 
-   
-   - Talkers.
-   
-   - Doers. 
-
-1. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action. 
-   
-   - Hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
-
-1. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for 
-  
-  - Farms, 
-  - Farmers, 
-  - Families,
-  - Labs, and 
-  - E-commerce / Retail Businesses. 
-
-1. Simplify the process of **self-learning digital skills** by creating a **clear and simple path** for **all to follow; using best-in-class resources and a mentor-based knowledge base.**
+    - The most successful cannabis program on earth still has its teachers heading up walk-outs and demanding better conditions for them and the children they teach.
+3. A deep dive into the actual actionable works accomplished by some of the not-for-profits in industry.
+    - Talkers.
+    - Doers. 
+4. Following the daily happenings on Capitol Hill  as well as regional and Southeastern action. 
+    - Hoping to partner with some pre-existing brands as to be able to share  content fairly and ethically. 
+5. Apply Quality Management (Toyota Way) methodology establishing best practices that are easy-to-implement and easy to scale for 
+    - Farms, 
+    - Farmers, 
+    - Families,
+    - Labs, and 
+    - E-commerce / Retail Businesses. 
+6. Simplify the process of **self-learning digital skills** by creating a **clear and simple path** for **all to follow; using best-in-class resources and a mentor-based knowledge base.**
     - [Google Applied Digital Skills](https://applieddigitalskills.withgoogle.com/c/en/curriculum.html?audience=adult_learners&topic=job_skills "Start a lesson: Explore the curriculum and choose a lesson that fits.")
-
-1. Improve awareness of recidivism rates while working with successful models to develop a national project using cloud architecture and emerging technologies to scale. 
+7. Improve awareness of recidivism rates while working with successful models to develop a national project using cloud architecture and emerging technologies to scale. 
     - Addressing the **illicit market** and 
     - Providing an easy-to-scale actionable answer.
-
-1. Presenting 'The Case for **Cannabis**' and 
+8. Presenting 'The Case for **Cannabis**' and 
     - **Opportunity** that exists in the **State of Georgia.**
-   
    - New Frontier Data projects Georgia as the highest potential revenue in the medical market
           - THC Free Phytocannabinoid Rich
           - Recreational (in time) 
           - Industrial Hemp
 
 #### Qualitative Goals
----
 
-1. **Help bridge the skills gap** by delivering readily available resources to provide the __applied digital skills training__ into our 
+1. Help bridge the skills gap by delivering readily available resources to provide the __applied digital skills training__ into our 
     - Veterans' Centers
     - Adult Learning Facilities (for disabled or otherwise),
     - American prison systems,
@@ -188,24 +211,24 @@ Our cornerstones (x4) are Total Customer Satisfaction thru quality management pr
     - Juvenile detention centers.
         1. Into the hands of our **socioeconomically disadvantaged minorities**;     
             - A grossly       
-                - **Under,**        
-                - **Un-** and,        
-                - **Unemployable** *subsector of the North American economies'.*
+                1.  Under,        
+                2. Un- and,        
+                3. Unemployable subsector of the North American economies'.
 2. Leverage the same plant, that, to this day, continues to be **unjustly used to incarcerate over 600,000 Americans per year**, as means to 
     - ***Gainful employment***, 
     - ***Opportunity*** 
     - ***Economic stability*** and 
     - ***Improved pscyhe*** of the 
-        - ***Formerly Incarcerated.***
-3. In *making the problem the solution*, the **expected outcome** is:
-    - **reduction of the illicit marijuana market**
-    - *boost* to the     
-        - ***Medicinal,***    
-        - ***Recreational,*** and     
-        - ***Whole herbaceous plant; hemp plant sector.***
-      - ***Added tax revenues*** from      
-         - ***Uncollected*** and     
-         - **Unresolved illicit marijuana market.**
+        1. Formerly Incarcerated.
+3. In making the problem the solution, the **expected outcome** is:
+    - **Reduction of the illicit marijuana market**
+    - *Boost* to the     
+        1. Medicinal,    
+        2. Recreational, and     
+        3. Whole herbaceous plant; hemp plant sector.***
+        4. Added tax revenues from      
+            - Uncollected and     
+            - Unresolved illicit marijuana market.
 
 
 > *Sentencing policies of the War on Drugs era resulted in dramatic growth in incarceration for
@@ -227,17 +250,15 @@ Our cornerstones (x4) are Total Customer Satisfaction thru quality management pr
 > 
 > *Most are not high-level actors in the drug trade, and most have **no prior criminal record**, or violent offenses 
 > (with a victim involved).*
-
-Source: [Bronson J and Cason E.A. of The Sentencing Project and James D.J. of Bureau Justice of Statistics](https://www.sentencingproject.org/wp-content/uploads/2016/01/Trends-in-US-Corrections.pdf "The Sentencing Project .org 2019. Prisoners in 2017. Washington, DC: Bureau of Justice Statistics; James, D.J. 2004. Profile of Jail Inmates, 2002. Washington, DC: Bureau of Justice Statistics; Zeng, Z.2019. Jail Inmates in 2017. Washington, DC: Bureau of Justice Statistics.")
+- Source: [Bronson J and Cason E.A. of The Sentencing Project and James D.J. of Bureau Justice of Statistics](https://www.sentencingproject.org/wp-content/uploads/2016/01/Trends-in-US-Corrections.pdf "The Sentencing Project .org 2019. Prisoners in 2017. Washington, DC: Bureau of Justice Statistics; James, D.J. 2004. Profile of Jail Inmates, 2002. Washington, DC: Bureau of Justice Statistics; Zeng, Z.2019. Jail Inmates in 2017. Washington, DC: Bureau of Justice Statistics.")
     
     
 #### Quantitative Goals
----
 
 1. See **Prohibition End**
-1. Realize **7 year exit strategy** & **conversion** to *not-for profit business model*.
+2. Realize **7 year exit strategy** & **conversion** to *not-for profit business model*.
     - **Long-term goal** is to help **Draft The *Opioid Epidemic Resolution* after pivoting** to full-time commitment on **tackling the substance use epidemic.**
-1. **Facilitate creation of 
+3. **Facilitate creation of 
     - **In-Demand, 
     - **High Growth**, 
     - **Well paying *careers*** over the course of the **next 7 years** in
@@ -253,21 +274,20 @@ Source: [Bronson J and Cason E.A. of The Sentencing Project and James D.J. of Bu
                 2. Canna-business Logistics (*Supply-Chain Management, Our specialized interest)                
                         
                         
-Already gaining interest with a single post for a singular RV Rental having rented it 4 times (with no ad spend or marketing); utilizing the [Outdoorsy](https://outdoorsy.com/ network and app to solicit while on cruise-control.
+> Already gaining interest with a single post for a singular RV Rental having rented it 4 times (with no ad spend or marketing); utilizing the [Outdoorsy](https://outdoorsy.com/ network and app to solicit while on cruise-control.
   - **Georgia Grown Agribusiness Tourism.**
 
 ![Imgur](https://i.imgur.com/59t2K0W.png?1 "As more milennials have children, they're embarking on camping adventures in the great outdoors as families.")    
 **Credit: [12 Industries That Will Thrive Thanks To MillennialsCB Insights.com](https://www.cbinsights.com/research/report/millennials-industries-thriving/ "Convenience Camping with gear rental and turnkey / concierge offerings coupled with the health and wellness whole plant efficacy in the state of Georgia is a natural fit in our eyes; creating diversification, and seasonality protections; at an affordable family-centric price point; partner: Poole Outdoors, LLC. NOTE: Family-owned as the founders are my brother and sister-in-law")
 
-The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.    
+> The once criminalized cannabis will continue to cause global revolutionary hyper-growth in agribusiness and we see opportunities a plenty in ancillary offerings.    
 
 As people and communities realize the message, acknowledging **God's green herbaceous health** and **wellness plants;** 
-- A *perfect complement* to the surging     
+1. A *perfect complement* to the surging     
     - **Sustainability Models,** and     
     - **Renewable Mindsets.**    
         
-### Elements: 
----    
+### Elements:     
 
 The People Problems | The Plant Problems | The Profitability Possibilities
 ---|---|---
@@ -280,14 +300,10 @@ Greed | Non-compliant Market | All Ancillary Services
 **SWOT** | **Call to Act** | **Summary**
 
 #### Non-Negotiables
----
 
 1. Open source, open border, open for all as an always accessible, fully transparent repository on the github.com platform.
-
 2.  All-inlcusive. Expect and respect diversity. A [True Meritocracy](https://www.theatlantic.com/business/archive/2011/11/is-true-meritocracy-impossible/248264/ "Some say a true meritocracy isn't a viable thing, well it's what we're after and we aim to prove it by Chasing the Dream")
-
 3. Establish  and implement simple yet actionable measurables fueling data-driven Solutions.
-
 4. Launch from **Google Cloud Platform**; full leverage of the platform and resources as to **progressively deliver current and emerging technologies,** utilizing all that is 
     - **Machine Learning,** 
     - **Artificial Intelligence,** 
@@ -295,29 +311,27 @@ Greed | Non-compliant Market | All Ancillary Services
     - **Natural Language Processing.**
     
 ### LEAN MANAGEMENT PRINCIPLES
----
 
-> _Chasing the Wind, llc_ has chosen to allocate __all benefits from the Google Cloud for Startups program & SUS__ recently awarded to be fully utilized in their entirety on the __preamble-project__, as a means to kickstart the launch, further extending and facilitating _lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce_.
+> Chasing the Wind, llc has chosen to allocate all benefits from the Google Cloud for Startups program & SUS recently awarded to be fully utilized in their entirety on the preamble-project, as a means to kickstart the launch, further extending and facilitating lean principles, sustainable development, and allowing for selective alignment / potential funding partners (even if we are sick and tired of Top Ramen & Hot Sauce.
 
 
 #### **A California Company's Example and Proven Record of Success**
----
 
-[The Last Mile Project](https://thelastmile.org/), a **framework and blueprint worthy of emulation**, *prepares incarcerated individuals for successful reentry through business and technology training.*
+[The Last Mile Project](https://thelastmile.org/), a framework and blueprint worthy of emulation, prepares incarcerated individuals for successful reentry through business and technology training.
 
 The Last Mile Project's Tagline
+
 > ***Changing Lives Through Tech***
 
-The Last Mile's ***Four-pillars of Success***
+The Last Mile's Four-pillars of Success
 
 Education | Vocation | Expansion | Reentry
 ---|---|---|---
 Simple | Attainable | Lean | Unquestionable Measurables
-**Served 460 students since '10** | **12 locations Ca, In, Ks, Ok** | **0% recidivism rate** | **National Avg. 55%**
+Served 460 students since '10 | 12 locations Ca, In, Ks, Ok | 0% recidivism rate | National Avg. 55%
 
 
 ### Chasing the Wind's *Preliminary* Ancillary Model
----
 
 Diagnostic | Therapeutic | Custodial 
 ---|---|---
